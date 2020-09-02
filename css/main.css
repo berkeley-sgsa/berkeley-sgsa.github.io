@@ -1,0 +1,14 @@
+.img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+}
+
+.logo-title{
+  color: #ffffff;
+}
+
+.logo-text{
+  color: #fdb515;
+}
