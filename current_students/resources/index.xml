@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on SGSA</title>
-    <link>http://sgsa.berkeley.edu/current_students/resources/</link>
+    <link>https://berkeley-sgsa.github.io/current_students/resources/</link>
     <description>Recent content in Resources on SGSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate>
     
-	<atom:link href="http://sgsa.berkeley.edu/current_students/resources/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://berkeley-sgsa.github.io/current_students/resources/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference and other events</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/conference/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/current_students/resources/conference/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/conference/</guid>
       <description>Conferences The ASA and IMS keep lists of various statistical meetings around the world. Some of the biggest are below.
 Statistics  Joint Statistical Meetings (JSM). Easily the largest statistical conference in the U.S. If it&amp;rsquo;s statistics related it&amp;rsquo;ll be here. International Society for NonParametric Statistics (ISNPS) Atlantic Causal Inference Conference (ACIC) Eastern North American Region Meetings (ENAR). This is a large east coast conference. This is run by International Biometric Society (IBS).</description>
     </item>
     
     <item>
       <title>Fellowships</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/fellowship/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/fellowship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/current_students/resources/fellowship/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/fellowship/</guid>
       <description>In the fall semester, we hold a fellowship workshop with incoming students. Typically second year students who received fellowships the previous year lead the workshop. We&amp;rsquo;ll help you find fellowships that you qualify for, professors to talk to about recommendations, and edit your essays. The workshop has been very successful. See previous achievements.
 The national and private fellowships that people most commonly apply for are:
  NSF Graduate Fellowship Program National Defense Science and Engineering Fellowship Ford Predoctoral Fellowship Hertz Graduate Fellowship NASA Graduate Student Researcher&amp;rsquo;s Program National Physical Science Consortium Fellowship  Every year, there are several fellowships for which you apply directly to the department.</description>
@@ -34,19 +34,19 @@ The national and private fellowships that people most commonly apply for are:
     
     <item>
       <title>Internships</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/internship/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/internship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/current_students/resources/internship/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/internship/</guid>
       <description>One of the great things about the Statistics department is their enthusiasm for Summer Internships. Doing an internship over the summer is an extremely common occurrence among the grad students, and it offers a nice break from your research that you&amp;rsquo;re working hard on during the rest of the year. There are a wide range of companies at which the grad students have interned at including Google, Ebay, Facebook, Citadel, Uber, Stitch Fix and more.</description>
     </item>
     
     <item>
       <title>Postdocs and Jobs</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/jobs/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/jobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/current_students/resources/jobs/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/jobs/</guid>
       <description>If you are in the hunt for a postdoc, make sure to look around and ask your advisor for guidance. The expected responsibilities of postdocs is highly variable between positions. Salary is also highly variable. Many postdocs are found by emailing researchers and asking if they would be interested in postdocs.
 Postdocs These are recurring every year:
  US Census Bureau NSF Mathematical Sciences Postdoctoral Fellowship NSF Transformative Computational Science using CyberInfrastructure Fellowships SAMSI  Other jobs University of Florida Statistics Department maintains a listing of statistics jobs.</description>

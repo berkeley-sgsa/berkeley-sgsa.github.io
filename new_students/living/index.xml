@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Living in Berkerley on SGSA</title>
-    <link>http://sgsa.berkeley.edu/new_students/living/</link>
+    <link>https://berkeley-sgsa.github.io/new_students/living/</link>
     <description>Recent content in Living in Berkerley on SGSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://sgsa.berkeley.edu/new_students/living/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://berkeley-sgsa.github.io/new_students/living/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Getting around Berkeley and beyond</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/around/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/around/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/new_students/living/around/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/around/</guid>
       <description>Public transportation Berkeley and the San Francisco Bay Area (or just Bay Area) have excellent public transportation. The simplest way to get around is to use your feet, the bus (AC Transit), and the subway (BART). An EasyPass Clipper Card is included in your student fees so be sure to pick one up at the Cal1Card office. The card can be used to ride any AC Transit bus free, but it&amp;rsquo;s a fully functional Clipper Card that you can load money onto.</description>
     </item>
     
     <item>
       <title>Housing hunt</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/housing/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/housing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/new_students/living/housing/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/housing/</guid>
       <description>International House Also known as I-House (or iHouse for the iPod generation (said no one ever)). This is a great option for your first year, while you are adjusting to Berkeley. They basically take care of everything for you, and even provide you with a social environment for making new friends. Affiliated with, but not owned by the university. Provides dormitory-style housing for around 600 grad students, postdocs and senior undergrads.</description>
     </item>
     
     <item>
       <title>Places to drink</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/drink/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/drink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/new_students/living/drink/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/drink/</guid>
       <description>Berkeley has a reasonable range of pubs and bars ranging from homely pub like places to neon lit sports bars to classy cocktail joints. Most bars are reasonably priced and filled with studenty clientele. IPAs and craft beers are the preferred local drink.
 Northside (Hearst and Euclid) Celia&amp;rsquo;s is infamous for their deceptively potent margaritas, and Daily Pint is a fun, laid back spot with good trivia.
 Campus The Bear&amp;rsquo;s Lair near Telegraph and Bancroft offers cheap beer and is famed for &amp;lsquo;beat the clock&amp;rsquo; on fridays, where drink prices increase every hour but start very cheap.</description>
@@ -41,10 +41,10 @@ Campus The Bear&amp;rsquo;s Lair near Telegraph and Bancroft offers cheap beer a
     
     <item>
       <title>Places to eat</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/eat/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/eat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/new_students/living/eat/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/eat/</guid>
       <description>The East Bay is one of the best places in the country to eat, but there&amp;rsquo;s a lot of terrible food around campus, as is the case with most campuses. Yelp will become your best friend when you have too many options to choose between.
 You can keep up with local restaurants opening and closing on the Berkeleyside Nosh.
 Near campus Most people in the department eat lunch on Northside.</description>
@@ -52,10 +52,10 @@ Near campus Most people in the department eat lunch on Northside.</description>
     
     <item>
       <title>Things to see and do</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/see/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/see/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/new_students/living/see/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/see/</guid>
       <description>The great outdoors Hiking Berkeley has many fantastic hiking trails with spectacular views of the bay area. Tilden Regional Park is a quick bus ride from campus with a variety of difficulties of hiking trails. A group of students visited for a leisurely afternoon hike to start off the semester this year. The Berkeley fire trails are in the hills just behind campus.
 For some variety, hop across the bay to Mount Tamalpais or Point Reyes in Marin County for some more beautiful views.</description>
     </item>

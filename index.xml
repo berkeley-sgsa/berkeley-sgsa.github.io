@@ -2,75 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SGSA</title>
-    <link>http://sgsa.berkeley.edu/</link>
+    <link>https://berkeley-sgsa.github.io/</link>
     <description>Recent content on SGSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate>
     
-	<atom:link href="http://sgsa.berkeley.edu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://berkeley-sgsa.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Career advice</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/career/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/career/</link>
       <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/career/</guid>
-      <description>Here is a selection of links which you might find helpful and encouraging while working your way through your Master&amp;rsquo;s or PhD.
-General Wisdom  Advice for Graduate Students in Statistics (2007) by Michael J. Steele, Upenn Statistics Career Advice from Terence Tao, UCLA Mathematics. A nice list of his own blog posts as well as links to other sources of sage advice for graduate students Essays and musings by David Aldous, Cal Statistics.</description>
-    </item>
-    
-    <item>
-      <title>Career advice</title>
-      <link>http://sgsa.berkeley.edu/current_students/career/</link>
-      <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/career/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/career/</guid>
       <description>Here is a selection of links which you might find helpful and encouraging while working your way through your Master&amp;rsquo;s or PhD.
 General Wisdom  Advice for Graduate Students in Statistics (2007) by Michael J. Steele, Upenn Statistics Career Advice from Terence Tao, UCLA Mathematics. A nice list of his own blog posts as well as links to other sources of sage advice for graduate students Essays and musings by David Aldous, Cal Statistics.</description>
     </item>
     
     <item>
       <title>Recommended books</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/books/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/books/</link>
       <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/books/</guid>
-      <description>1. Applied Statistics Categorial Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti. Well-written, go-to reference for all things involving categorical data.  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs. Does not have a lot of concrete data examples. &amp;ldquo;Statistical Models&amp;rdquo; by David A. Freedman Berkeley classic! &amp;ldquo;Linear Models with R&amp;rdquo; by Julian Faraway Undergraduate-level textbook, has been used previously as a textbook for Stat 151A.</description>
-    </item>
-    
-    <item>
-      <title>Recommended books</title>
-      <link>http://sgsa.berkeley.edu/current_students/books/</link>
-      <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/books/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/books/</guid>
       <description>1. Applied Statistics Categorial Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti. Well-written, go-to reference for all things involving categorical data.  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs. Does not have a lot of concrete data examples. &amp;ldquo;Statistical Models&amp;rdquo; by David A. Freedman Berkeley classic! &amp;ldquo;Linear Models with R&amp;rdquo; by Julian Faraway Undergraduate-level textbook, has been used previously as a textbook for Stat 151A.</description>
     </item>
     
     <item>
       <title>Achievements</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/achievements/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/achievements/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/achievements/</guid>
-      <description>Previous years Rebecca Barter: 2016 Berkeley Institute for Data Science Fellowship
-Stephanie DeGraaf: 2016 NSF Graduate Research Fellowship
-Billy Fang: 2016 NSF Graduate Research Fellowship
-Sören Künzel: 2016-17 Citadel Fellowship
-Jamie Murdoch: 2016 Natural Sciences and Engineering Research Council of Canada Fellowship
-Chelsea Zhang: 2016 NSF Graduate Research Fellowship
-Arturo Fernandez: 2015-16 Citadel Fellowship
-Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Berkeley Institute for Data Science Fellowship</description>
-    </item>
-    
-    <item>
-      <title>Achievements</title>
-      <link>http://sgsa.berkeley.edu/current_students/achievements/</link>
-      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/achievements/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/achievements/</guid>
       <description>Previous years Rebecca Barter: 2016 Berkeley Institute for Data Science Fellowship
 Stephanie DeGraaf: 2016 NSF Graduate Research Fellowship
 Billy Fang: 2016 NSF Graduate Research Fellowship
@@ -83,57 +48,28 @@ Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Be
     
     <item>
       <title>The PhD track</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/phdtrack/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/phdtrack/</link>
       <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/phdtrack/</guid>
-      <description>1. Making the Transition from Coursework to Research Most graduate students will have spent nearly 12 years of their lives taking classes and trying to earn good grades by the time they arrive in the Ph.D. program. These 12 years of training can reinforce a mindset that is not necessarily the best for conducting research. Courses rarely leave charted territory, and leave us unprepared for the uncertainty and unknown waters of research.</description>
-    </item>
-    
-    <item>
-      <title>The PhD track</title>
-      <link>http://sgsa.berkeley.edu/current_students/phdtrack/</link>
-      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/phdtrack/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/phdtrack/</guid>
       <description>1. Making the Transition from Coursework to Research Most graduate students will have spent nearly 12 years of their lives taking classes and trying to earn good grades by the time they arrive in the Ph.D. program. These 12 years of training can reinforce a mindset that is not necessarily the best for conducting research. Courses rarely leave charted territory, and leave us unprepared for the uncertainty and unknown waters of research.</description>
     </item>
     
     <item>
       <title>About the department</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/academic/department/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/academic/department/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/academic/department/</guid>
-      <description>About the Department History Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H.</description>
-    </item>
-    
-    <item>
-      <title>About the department</title>
-      <link>http://sgsa.berkeley.edu/new_students/academic/department/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/academic/department/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/academic/department/</guid>
       <description>About the Department History Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H.</description>
     </item>
     
     <item>
       <title>Committees</title>
-      <link>http://sgsa.berkeley.edu/content/sgsa/committees/</link>
+      <link>https://berkeley-sgsa.github.io/sgsa/committees/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/sgsa/committees/</guid>
-      <description>Officers Co-Presidents: Bryan and Eli  Serve as liaisons between graduate students and the department faculty and staff Keep the committees on track to fulfill their responsibilities Chair officer meetings  Treasurer: Briton and Ryan T. Support: &amp;ndash;
- Manage SGSA bank account Handle reimbursements for SGSA Arrange for funding from industry contacts  Graduate Assembly (GA) Delegate: Jake C. and Benji Alternate GA Delegate: &amp;ndash;
- Attend monthly GA meetings File paperwork for GA funding at the beginning of each semester Keep SGSA updated on GA happenings  Committees Student Seminar Committee Head: Joe, Billy, Lihua, Olivia Support: &amp;ndash;</description>
-    </item>
-    
-    <item>
-      <title>Committees</title>
-      <link>http://sgsa.berkeley.edu/sgsa/committees/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/sgsa/committees/</guid>
+      <guid>https://berkeley-sgsa.github.io/sgsa/committees/</guid>
       <description>Officers Co-Presidents: Bryan and Eli  Serve as liaisons between graduate students and the department faculty and staff Keep the committees on track to fulfill their responsibilities Chair officer meetings  Treasurer: Briton and Ryan T. Support: &amp;ndash;
  Manage SGSA bank account Handle reimbursements for SGSA Arrange for funding from industry contacts  Graduate Assembly (GA) Delegate: Jake C. and Benji Alternate GA Delegate: &amp;ndash;
  Attend monthly GA meetings File paperwork for GA funding at the beginning of each semester Keep SGSA updated on GA happenings  Committees Student Seminar Committee Head: Joe, Billy, Lihua, Olivia Support: &amp;ndash;</description>
@@ -141,41 +77,20 @@ Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Be
     
     <item>
       <title>Conference and other events</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/resources/conference/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/conference/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/resources/conference/</guid>
-      <description>Conferences The ASA and IMS keep lists of various statistical meetings around the world. Some of the biggest are below.
-Statistics  Joint Statistical Meetings (JSM). Easily the largest statistical conference in the U.S. If it&amp;rsquo;s statistics related it&amp;rsquo;ll be here. International Society for NonParametric Statistics (ISNPS) Atlantic Causal Inference Conference (ACIC) Eastern North American Region Meetings (ENAR). This is a large east coast conference. This is run by International Biometric Society (IBS).</description>
-    </item>
-    
-    <item>
-      <title>Conference and other events</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/conference/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/resources/conference/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/conference/</guid>
       <description>Conferences The ASA and IMS keep lists of various statistical meetings around the world. Some of the biggest are below.
 Statistics  Joint Statistical Meetings (JSM). Easily the largest statistical conference in the U.S. If it&amp;rsquo;s statistics related it&amp;rsquo;ll be here. International Society for NonParametric Statistics (ISNPS) Atlantic Causal Inference Conference (ACIC) Eastern North American Region Meetings (ENAR). This is a large east coast conference. This is run by International Biometric Society (IBS).</description>
     </item>
     
     <item>
       <title>Duties</title>
-      <link>http://sgsa.berkeley.edu/content/sgsa/duties/</link>
+      <link>https://berkeley-sgsa.github.io/sgsa/duties/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/sgsa/duties/</guid>
-      <description>This is a list of resources for fulfilling committee duties. For example, check-lists for spring picnic, how-to for getting reimbursed from the GA, and so forth.
-Treasurer Sources of funding These instructions are current as of Fall 2016.
-The amount and source of funding for every event planned for the upcoming year should be clearly outlined in a budget submitted to the department (e.g. to Laura Slakey) by the SGSA presidents at the beginning of the Fall Semester.</description>
-    </item>
-    
-    <item>
-      <title>Duties</title>
-      <link>http://sgsa.berkeley.edu/sgsa/duties/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/sgsa/duties/</guid>
+      <guid>https://berkeley-sgsa.github.io/sgsa/duties/</guid>
       <description>This is a list of resources for fulfilling committee duties. For example, check-lists for spring picnic, how-to for getting reimbursed from the GA, and so forth.
 Treasurer Sources of funding These instructions are current as of Fall 2016.
 The amount and source of funding for every event planned for the upcoming year should be clearly outlined in a budget submitted to the department (e.g. to Laura Slakey) by the SGSA presidents at the beginning of the Fall Semester.</description>
@@ -183,21 +98,10 @@ The amount and source of funding for every event planned for the upcoming year s
     
     <item>
       <title>Fellowships</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/resources/fellowship/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/fellowship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/resources/fellowship/</guid>
-      <description>In the fall semester, we hold a fellowship workshop with incoming students. Typically second year students who received fellowships the previous year lead the workshop. We&amp;rsquo;ll help you find fellowships that you qualify for, professors to talk to about recommendations, and edit your essays. The workshop has been very successful. See previous achievements.
-The national and private fellowships that people most commonly apply for are:
- NSF Graduate Fellowship Program National Defense Science and Engineering Fellowship Ford Predoctoral Fellowship Hertz Graduate Fellowship NASA Graduate Student Researcher&amp;rsquo;s Program National Physical Science Consortium Fellowship  Every year, there are several fellowships for which you apply directly to the department.</description>
-    </item>
-    
-    <item>
-      <title>Fellowships</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/fellowship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/resources/fellowship/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/fellowship/</guid>
       <description>In the fall semester, we hold a fellowship workshop with incoming students. Typically second year students who received fellowships the previous year lead the workshop. We&amp;rsquo;ll help you find fellowships that you qualify for, professors to talk to about recommendations, and edit your essays. The workshop has been very successful. See previous achievements.
 The national and private fellowships that people most commonly apply for are:
  NSF Graduate Fellowship Program National Defense Science and Engineering Fellowship Ford Predoctoral Fellowship Hertz Graduate Fellowship NASA Graduate Student Researcher&amp;rsquo;s Program National Physical Science Consortium Fellowship  Every year, there are several fellowships for which you apply directly to the department.</description>
@@ -205,113 +109,56 @@ The national and private fellowships that people most commonly apply for are:
     
     <item>
       <title>Finances and funding</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/academic/finance/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/academic/finance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/academic/finance/</guid>
-      <description>All students admitted into the Statistics Department are offered enough financial support to live comfortably, for at least the standard duration of the degree. This aid may take several forms: fellowships, teaching appointments (GSI), or research appointments (GSR). A common path through the PhD program is to receive funding for the first year, then get a GSR position every other semester from the second year onwards.
-Policy for PhD students The policy for the Ph.</description>
-    </item>
-    
-    <item>
-      <title>Finances and funding</title>
-      <link>http://sgsa.berkeley.edu/new_students/academic/finance/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/academic/finance/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/academic/finance/</guid>
       <description>All students admitted into the Statistics Department are offered enough financial support to live comfortably, for at least the standard duration of the degree. This aid may take several forms: fellowships, teaching appointments (GSI), or research appointments (GSR). A common path through the PhD program is to receive funding for the first year, then get a GSR position every other semester from the second year onwards.
 Policy for PhD students The policy for the Ph.</description>
     </item>
     
     <item>
       <title>Getting around Berkeley and beyond</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/living/around/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/around/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/living/around/</guid>
-      <description>Public transportation Berkeley and the San Francisco Bay Area (or just Bay Area) have excellent public transportation. The simplest way to get around is to use your feet, the bus (AC Transit), and the subway (BART). An EasyPass Clipper Card is included in your student fees so be sure to pick one up at the Cal1Card office. The card can be used to ride any AC Transit bus free, but it&amp;rsquo;s a fully functional Clipper Card that you can load money onto.</description>
-    </item>
-    
-    <item>
-      <title>Getting around Berkeley and beyond</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/around/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/living/around/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/around/</guid>
       <description>Public transportation Berkeley and the San Francisco Bay Area (or just Bay Area) have excellent public transportation. The simplest way to get around is to use your feet, the bus (AC Transit), and the subway (BART). An EasyPass Clipper Card is included in your student fees so be sure to pick one up at the Cal1Card office. The card can be used to ride any AC Transit bus free, but it&amp;rsquo;s a fully functional Clipper Card that you can load money onto.</description>
     </item>
     
     <item>
       <title>Graduate Student Instructors (GSIs)</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/academic/gsi/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/academic/gsi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/academic/gsi/</guid>
-      <description>Graduate students will typically serve as GSIs several times during the course of their degree. The appointment is typically 25% or 50%, rarely 75%. All GSI&amp;rsquo;s have their tuition, which includes the Student Health Insurance Plan (SHIP), covered by the department, as well as receive a salary of about $1500 per month for 50%; 25% appointments pay about half of this. This salary is subject to state and federal taxes.</description>
-    </item>
-    
-    <item>
-      <title>Graduate Student Instructors (GSIs)</title>
-      <link>http://sgsa.berkeley.edu/new_students/academic/gsi/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/academic/gsi/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/academic/gsi/</guid>
       <description>Graduate students will typically serve as GSIs several times during the course of their degree. The appointment is typically 25% or 50%, rarely 75%. All GSI&amp;rsquo;s have their tuition, which includes the Student Health Insurance Plan (SHIP), covered by the department, as well as receive a salary of about $1500 per month for 50%; 25% appointments pay about half of this. This salary is subject to state and federal taxes.</description>
     </item>
     
     <item>
       <title>Housing hunt</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/living/housing/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/housing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/living/housing/</guid>
-      <description>International House Also known as I-House (or iHouse for the iPod generation (said no one ever)). This is a great option for your first year, while you are adjusting to Berkeley. They basically take care of everything for you, and even provide you with a social environment for making new friends. Affiliated with, but not owned by the university. Provides dormitory-style housing for around 600 grad students, postdocs and senior undergrads.</description>
-    </item>
-    
-    <item>
-      <title>Housing hunt</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/housing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/living/housing/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/housing/</guid>
       <description>International House Also known as I-House (or iHouse for the iPod generation (said no one ever)). This is a great option for your first year, while you are adjusting to Berkeley. They basically take care of everything for you, and even provide you with a social environment for making new friends. Affiliated with, but not owned by the university. Provides dormitory-style housing for around 600 grad students, postdocs and senior undergrads.</description>
     </item>
     
     <item>
       <title>Internships</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/resources/internship/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/internship/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/resources/internship/</guid>
-      <description>One of the great things about the Statistics department is their enthusiasm for Summer Internships. Doing an internship over the summer is an extremely common occurrence among the grad students, and it offers a nice break from your research that you&amp;rsquo;re working hard on during the rest of the year. There are a wide range of companies at which the grad students have interned at including Google, Ebay, Facebook, Citadel, Uber, Stitch Fix and more.</description>
-    </item>
-    
-    <item>
-      <title>Internships</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/internship/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/resources/internship/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/internship/</guid>
       <description>One of the great things about the Statistics department is their enthusiasm for Summer Internships. Doing an internship over the summer is an extremely common occurrence among the grad students, and it offers a nice break from your research that you&amp;rsquo;re working hard on during the rest of the year. There are a wide range of companies at which the grad students have interned at including Google, Ebay, Facebook, Citadel, Uber, Stitch Fix and more.</description>
     </item>
     
     <item>
       <title>PhD coursework</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/academic/coursework/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/academic/coursework/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/academic/coursework/</guid>
-      <description>This page gives an informal overview of typical classes taken by PhD graduate students in the department.
-The structure of the Ph.D. was radically revamped in 2004. In particular, the decades-old preliminary exams were deprecated in favor of more holistic assessment methods.
-The core courses are 205A and 205B (probability theory), 210A and 210B (theoretical statistics) and 215A and 215B (applied statistics). In addition, Ph.D. candidates will usually choose four first year courses from these six - often both parts of two of the three series 205, 210 and 215.</description>
-    </item>
-    
-    <item>
-      <title>PhD coursework</title>
-      <link>http://sgsa.berkeley.edu/new_students/academic/coursework/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/academic/coursework/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/academic/coursework/</guid>
       <description>This page gives an informal overview of typical classes taken by PhD graduate students in the department.
 The structure of the Ph.D. was radically revamped in 2004. In particular, the decades-old preliminary exams were deprecated in favor of more holistic assessment methods.
 The core courses are 205A and 205B (probability theory), 210A and 210B (theoretical statistics) and 215A and 215B (applied statistics). In addition, Ph.D. candidates will usually choose four first year courses from these six - often both parts of two of the three series 205, 210 and 215.</description>
@@ -319,21 +166,10 @@ The core courses are 205A and 205B (probability theory), 210A and 210B (theoreti
     
     <item>
       <title>Places to drink</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/living/drink/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/drink/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/living/drink/</guid>
-      <description>Berkeley has a reasonable range of pubs and bars ranging from homely pub like places to neon lit sports bars to classy cocktail joints. Most bars are reasonably priced and filled with studenty clientele. IPAs and craft beers are the preferred local drink.
-Northside (Hearst and Euclid) Celia&amp;rsquo;s is infamous for their deceptively potent margaritas, and Daily Pint is a fun, laid back spot with good trivia.
-Campus The Bear&amp;rsquo;s Lair near Telegraph and Bancroft offers cheap beer and is famed for &amp;lsquo;beat the clock&amp;rsquo; on fridays, where drink prices increase every hour but start very cheap.</description>
-    </item>
-    
-    <item>
-      <title>Places to drink</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/drink/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/living/drink/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/drink/</guid>
       <description>Berkeley has a reasonable range of pubs and bars ranging from homely pub like places to neon lit sports bars to classy cocktail joints. Most bars are reasonably priced and filled with studenty clientele. IPAs and craft beers are the preferred local drink.
 Northside (Hearst and Euclid) Celia&amp;rsquo;s is infamous for their deceptively potent margaritas, and Daily Pint is a fun, laid back spot with good trivia.
 Campus The Bear&amp;rsquo;s Lair near Telegraph and Bancroft offers cheap beer and is famed for &amp;lsquo;beat the clock&amp;rsquo; on fridays, where drink prices increase every hour but start very cheap.</description>
@@ -341,21 +177,10 @@ Campus The Bear&amp;rsquo;s Lair near Telegraph and Bancroft offers cheap beer a
     
     <item>
       <title>Places to eat</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/living/eat/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/eat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/living/eat/</guid>
-      <description>The East Bay is one of the best places in the country to eat, but there&amp;rsquo;s a lot of terrible food around campus, as is the case with most campuses. Yelp will become your best friend when you have too many options to choose between.
-You can keep up with local restaurants opening and closing on the Berkeleyside Nosh.
-Near campus Most people in the department eat lunch on Northside.</description>
-    </item>
-    
-    <item>
-      <title>Places to eat</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/eat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/living/eat/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/eat/</guid>
       <description>The East Bay is one of the best places in the country to eat, but there&amp;rsquo;s a lot of terrible food around campus, as is the case with most campuses. Yelp will become your best friend when you have too many options to choose between.
 You can keep up with local restaurants opening and closing on the Berkeleyside Nosh.
 Near campus Most people in the department eat lunch on Northside.</description>
@@ -363,21 +188,10 @@ Near campus Most people in the department eat lunch on Northside.</description>
     
     <item>
       <title>Postdocs and Jobs</title>
-      <link>http://sgsa.berkeley.edu/content/current_students/resources/jobs/</link>
+      <link>https://berkeley-sgsa.github.io/current_students/resources/jobs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/current_students/resources/jobs/</guid>
-      <description>If you are in the hunt for a postdoc, make sure to look around and ask your advisor for guidance. The expected responsibilities of postdocs is highly variable between positions. Salary is also highly variable. Many postdocs are found by emailing researchers and asking if they would be interested in postdocs.
-Postdocs These are recurring every year:
- US Census Bureau NSF Mathematical Sciences Postdoctoral Fellowship NSF Transformative Computational Science using CyberInfrastructure Fellowships SAMSI  Other jobs University of Florida Statistics Department maintains a listing of statistics jobs.</description>
-    </item>
-    
-    <item>
-      <title>Postdocs and Jobs</title>
-      <link>http://sgsa.berkeley.edu/current_students/resources/jobs/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/current_students/resources/jobs/</guid>
+      <guid>https://berkeley-sgsa.github.io/current_students/resources/jobs/</guid>
       <description>If you are in the hunt for a postdoc, make sure to look around and ask your advisor for guidance. The expected responsibilities of postdocs is highly variable between positions. Salary is also highly variable. Many postdocs are found by emailing researchers and asking if they would be interested in postdocs.
 Postdocs These are recurring every year:
  US Census Bureau NSF Mathematical Sciences Postdoctoral Fellowship NSF Transformative Computational Science using CyberInfrastructure Fellowships SAMSI  Other jobs University of Florida Statistics Department maintains a listing of statistics jobs.</description>
@@ -385,42 +199,20 @@ Postdocs These are recurring every year:
     
     <item>
       <title>Prospective Student FAQ</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/academic/faq/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/academic/faq/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/academic/faq/</guid>
-      <description>These questions were answered by
- Victor Panaretos - SGSA President Emeritus, Associate Professor at EPFL James Long - PhD Alumnus, Assistant Professor at Texas A&amp;amp;M, College Station Ani Adhikari - Berkeley Statistics Faculty  Program, application process How difficult is it to be admitted to the Ph.D. program? Victor: Well, let’s just say it’s most certainly not easy. As with any top school, there is strong competition, and there will be many brilliant students competing for a spot.</description>
-    </item>
-    
-    <item>
-      <title>Prospective Student FAQ</title>
-      <link>http://sgsa.berkeley.edu/new_students/academic/faq/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/academic/faq/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/academic/faq/</guid>
       <description>These questions were answered by
  Victor Panaretos - SGSA President Emeritus, Associate Professor at EPFL James Long - PhD Alumnus, Assistant Professor at Texas A&amp;amp;M, College Station Ani Adhikari - Berkeley Statistics Faculty  Program, application process How difficult is it to be admitted to the Ph.D. program? Victor: Well, let’s just say it’s most certainly not easy. As with any top school, there is strong competition, and there will be many brilliant students competing for a spot.</description>
     </item>
     
     <item>
       <title>SGSA event funding</title>
-      <link>http://sgsa.berkeley.edu/content/sgsa/eventfunding/</link>
+      <link>https://berkeley-sgsa.github.io/sgsa/eventfunding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/sgsa/eventfunding/</guid>
-      <description>These instructions are current as of Fall 2016.
-The amount and source of funding for every event planned for the upcoming year should be clearly outlined in a budget submitted to the department (e.g. to Laura Slakey) by the SGSA presidents at the beginning of the Fall Semester every year.
-There are three sources of funding:
- The department: The bulk (~$2,000 per year) of the funding of the funding comes from the department.</description>
-    </item>
-    
-    <item>
-      <title>SGSA event funding</title>
-      <link>http://sgsa.berkeley.edu/sgsa/eventfunding/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/sgsa/eventfunding/</guid>
+      <guid>https://berkeley-sgsa.github.io/sgsa/eventfunding/</guid>
       <description>These instructions are current as of Fall 2016.
 The amount and source of funding for every event planned for the upcoming year should be clearly outlined in a budget submitted to the department (e.g. to Laura Slakey) by the SGSA presidents at the beginning of the Fall Semester every year.
 There are three sources of funding:
@@ -429,80 +221,40 @@ There are three sources of funding:
     
     <item>
       <title>SGSA events</title>
-      <link>http://sgsa.berkeley.edu/content/sgsa/events/</link>
+      <link>https://berkeley-sgsa.github.io/sgsa/events/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/sgsa/events/</guid>
-      <description>Weekly events Friday Wind Down On Friday evenings, the grad students celebrate the arrival of the weekend by eating and drinking somewhere in Berkeley at the Friday Wind Down. The studnets are generally summoned to the wind down (or &amp;ldquo;wine down&amp;rdquo; if said quickly) by the cry of a comical email, occasionally including photo-shopped pictures of former Berkeley professors, such as Jerzy Neyman.
-Tuesday Cookie Hour Each Tuesday afternoon, members of the department gather for an hour of cookies and pleasant conversation.</description>
-    </item>
-    
-    <item>
-      <title>SGSA events</title>
-      <link>http://sgsa.berkeley.edu/sgsa/events/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/sgsa/events/</guid>
+      <guid>https://berkeley-sgsa.github.io/sgsa/events/</guid>
       <description>Weekly events Friday Wind Down On Friday evenings, the grad students celebrate the arrival of the weekend by eating and drinking somewhere in Berkeley at the Friday Wind Down. The studnets are generally summoned to the wind down (or &amp;ldquo;wine down&amp;rdquo; if said quickly) by the cry of a comical email, occasionally including photo-shopped pictures of former Berkeley professors, such as Jerzy Neyman.
 Tuesday Cookie Hour Each Tuesday afternoon, members of the department gather for an hour of cookies and pleasant conversation.</description>
     </item>
     
     <item>
       <title>Sports</title>
-      <link>http://sgsa.berkeley.edu/content/sgsa/sports/</link>
+      <link>https://berkeley-sgsa.github.io/sgsa/sports/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/sgsa/sports/</guid>
-      <description>Welcome to the home of Outliers SC, the unofficial sports club of the Berkeley Statistics department!
-The graduate department has had a long standing tradition of playing sports together in Berkeley&amp;rsquo;s intramural sports leagues. Along with members of the Biostatistics graduate program we form a variety of teams. If you have interest in potentially getting involved, contact Geno (gaguerra at berkeley dot edu). We play in primarily co-ed teams, so having men and women from the department is important.</description>
-    </item>
-    
-    <item>
-      <title>Sports</title>
-      <link>http://sgsa.berkeley.edu/sgsa/sports/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/sgsa/sports/</guid>
+      <guid>https://berkeley-sgsa.github.io/sgsa/sports/</guid>
       <description>Welcome to the home of Outliers SC, the unofficial sports club of the Berkeley Statistics department!
 The graduate department has had a long standing tradition of playing sports together in Berkeley&amp;rsquo;s intramural sports leagues. Along with members of the Biostatistics graduate program we form a variety of teams. If you have interest in potentially getting involved, contact Geno (gaguerra at berkeley dot edu). We play in primarily co-ed teams, so having men and women from the department is important.</description>
     </item>
     
     <item>
       <title>T-shirt contest</title>
-      <link>http://sgsa.berkeley.edu/content/sgsa/tshirt/</link>
+      <link>https://berkeley-sgsa.github.io/sgsa/tshirt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/sgsa/tshirt/</guid>
+      <guid>https://berkeley-sgsa.github.io/sgsa/tshirt/</guid>
       <description> The SGSA holds an annual t-shirt design contest and fundraiser. The department votes on their favorite design. The winner gets to see their art printed on many shirts and receives eternal glory.
-Previous winners  2017  2016  2015  2014  2013  2012  2011  2010  2009  2008  2007 lost? 2006  2005  2004  2003  2002  2001  2000  1999  1998  1997  1996  1995  1994  older ones   </description>
-    </item>
-    
-    <item>
-      <title>T-shirt contest</title>
-      <link>http://sgsa.berkeley.edu/sgsa/tshirt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/sgsa/tshirt/</guid>
-      <description> The SGSA holds an annual t-shirt design contest and fundraiser. The department votes on their favorite design. The winner gets to see their art printed on many shirts and receives eternal glory.
-Previous winners  2017  2016  2015  2014  2013  2012  2011  2010  2009  2008  2007 lost? 2006  2005  2004  2003  2002  2001  2000  1999  1998  1997  1996  1995  1994  older ones   </description>
+Previous winners  2019  2017  2016  2015  2014  2013  2012  2011  2010  2009  2008  2007 lost? 2006  2005  2004  2003  2002  2001  2000  1999  1998  1997  1996  1995  1994  older ones   </description>
     </item>
     
     <item>
       <title>Things to see and do</title>
-      <link>http://sgsa.berkeley.edu/content/new_students/living/see/</link>
+      <link>https://berkeley-sgsa.github.io/new_students/living/see/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://sgsa.berkeley.edu/content/new_students/living/see/</guid>
-      <description>The great outdoors Hiking Berkeley has many fantastic hiking trails with spectacular views of the bay area. Tilden Regional Park is a quick bus ride from campus with a variety of difficulties of hiking trails. A group of students visited for a leisurely afternoon hike to start off the semester this year. The Berkeley fire trails are in the hills just behind campus.
-For some variety, hop across the bay to Mount Tamalpais or Point Reyes in Marin County for some more beautiful views.</description>
-    </item>
-    
-    <item>
-      <title>Things to see and do</title>
-      <link>http://sgsa.berkeley.edu/new_students/living/see/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://sgsa.berkeley.edu/new_students/living/see/</guid>
+      <guid>https://berkeley-sgsa.github.io/new_students/living/see/</guid>
       <description>The great outdoors Hiking Berkeley has many fantastic hiking trails with spectacular views of the bay area. Tilden Regional Park is a quick bus ride from campus with a variety of difficulties of hiking trails. A group of students visited for a leisurely afternoon hike to start off the semester this year. The Berkeley fire trails are in the hills just behind campus.
 For some variety, hop across the bay to Mount Tamalpais or Point Reyes in Marin County for some more beautiful views.</description>
     </item>
