@@ -22,12 +22,13 @@ General Wisdom  Advice for Graduate Students in Statistics (2007) by Michael J. 
     </item>
     
     <item>
-      <title>Recommended books</title>
+      <title>Recommended texts</title>
       <link>https://berkeley-sgsa.github.io/current_students/books/</link>
       <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/current_students/books/</guid>
-      <description>1. Applied Statistics Categorial Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti. Well-written, go-to reference for all things involving categorical data.  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs. Does not have a lot of concrete data examples. &amp;ldquo;Statistical Models&amp;rdquo; by David A. Freedman Berkeley classic! &amp;ldquo;Linear Models with R&amp;rdquo; by Julian Faraway Undergraduate-level textbook, has been used previously as a textbook for Stat 151A.</description>
+      <description>1. Applied and Theoretical Statistics Categorical Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti Well-written, go-to reference for all things involving categorical data.  Causal Inference More information available through the causal inference reading group and online seminar
+Compositional Data  &amp;ldquo;Compositional Data Analysis&amp;rdquo; by Pawlowsky-Glahn and Buccianti  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs. Does not have a lot of concrete data examples.</description>
     </item>
     
     <item>
