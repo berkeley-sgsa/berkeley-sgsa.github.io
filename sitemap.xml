@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
@@ -38,11 +38,11 @@
   </url>
   
   <url>
-    <loc>https://berkeley-sgsa.github.io/about_us/</loc>
+    <loc>https://berkeley-sgsa.github.io/new_students/academic/department/</loc>
   </url>
   
   <url>
-    <loc>https://berkeley-sgsa.github.io/new_students/academic/department/</loc>
+    <loc>https://berkeley-sgsa.github.io/about_us/</loc>
   </url>
   
   <url>
@@ -50,12 +50,7 @@
   </url>
   
   <url>
-    <loc>https://berkeley-sgsa.github.io/covid_19/</loc>
-  </url>
-  
-  <url>
     <loc>https://berkeley-sgsa.github.io/categories/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -64,6 +59,10 @@
   
   <url>
     <loc>https://berkeley-sgsa.github.io/current_students/resources/conference/</loc>
+  </url>
+  
+  <url>
+    <loc>https://berkeley-sgsa.github.io/covid_19/</loc>
   </url>
   
   <url>
@@ -123,15 +122,15 @@
   </url>
   
   <url>
-    <loc>https://berkeley-sgsa.github.io/sgsa/</loc>
-  </url>
-  
-  <url>
     <loc>https://berkeley-sgsa.github.io/sgsa/eventfunding/</loc>
   </url>
   
   <url>
     <loc>https://berkeley-sgsa.github.io/sgsa/events/</loc>
+  </url>
+  
+  <url>
+    <loc>https://berkeley-sgsa.github.io/sgsa/</loc>
   </url>
   
   <url>
@@ -144,7 +143,6 @@
   
   <url>
     <loc>https://berkeley-sgsa.github.io/tags/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
