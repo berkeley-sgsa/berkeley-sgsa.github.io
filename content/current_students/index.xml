@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Current students on SGSA</title>
+    <link>http://sgsa.berkeley.edu/content/current_students/</link>
+    <description>Recent content in Current students on SGSA</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate>
+    
+	<atom:link href="http://sgsa.berkeley.edu/content/current_students/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Career advice</title>
+      <link>http://sgsa.berkeley.edu/content/current_students/career/</link>
+      <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
+      
+      <guid>http://sgsa.berkeley.edu/content/current_students/career/</guid>
+      <description>Here is a selection of links which you might find helpful and encouraging while working your way through your Master&amp;rsquo;s or PhD.
+General Wisdom  Advice for Graduate Students in Statistics (2007) by Michael J. Steele, Upenn Statistics Career Advice from Terence Tao, UCLA Mathematics. A nice list of his own blog posts as well as links to other sources of sage advice for graduate students Essays and musings by David Aldous, Cal Statistics.</description>
+    </item>
+    
+    <item>
+      <title>Recommended books</title>
+      <link>http://sgsa.berkeley.edu/content/current_students/books/</link>
+      <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
+      
+      <guid>http://sgsa.berkeley.edu/content/current_students/books/</guid>
+      <description>1. Applied Statistics Categorial Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti. Well-written, go-to reference for all things involving categorical data.  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs. Does not have a lot of concrete data examples. &amp;ldquo;Statistical Models&amp;rdquo; by David A. Freedman Berkeley classic! &amp;ldquo;Linear Models with R&amp;rdquo; by Julian Faraway Undergraduate-level textbook, has been used previously as a textbook for Stat 151A.</description>
+    </item>
+    
+    <item>
+      <title>Achievements</title>
+      <link>http://sgsa.berkeley.edu/content/current_students/achievements/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://sgsa.berkeley.edu/content/current_students/achievements/</guid>
+      <description>Previous years Rebecca Barter: 2016 Berkeley Institute for Data Science Fellowship
+Stephanie DeGraaf: 2016 NSF Graduate Research Fellowship
+Billy Fang: 2016 NSF Graduate Research Fellowship
+Sören Künzel: 2016-17 Citadel Fellowship
+Jamie Murdoch: 2016 Natural Sciences and Engineering Research Council of Canada Fellowship
+Chelsea Zhang: 2016 NSF Graduate Research Fellowship
+Arturo Fernandez: 2015-16 Citadel Fellowship
+Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Berkeley Institute for Data Science Fellowship</description>
+    </item>
+    
+    <item>
+      <title>The PhD track</title>
+      <link>http://sgsa.berkeley.edu/content/current_students/phdtrack/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://sgsa.berkeley.edu/content/current_students/phdtrack/</guid>
+      <description>1. Making the Transition from Coursework to Research Most graduate students will have spent nearly 12 years of their lives taking classes and trying to earn good grades by the time they arrive in the Ph.D. program. These 12 years of training can reinforce a mindset that is not necessarily the best for conducting research. Courses rarely leave charted territory, and leave us unprepared for the uncertainty and unknown waters of research.</description>
+    </item>
+    
+  </channel>
+</rss>

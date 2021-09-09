@@ -181,7 +181,7 @@ jQuery(document).ready(function() {
 
         if (text.length > 5) {
             if (!clipInit) {
-                var text, clip = new Clipboard('.copy-to-clipboard', {
+                var text, clip = new ClipboardJS('.copy-to-clipboard', {
                     text: function(trigger) {
                         text = $(trigger).prev('code').text();
                         return text.replace(/^\$\s/gm, '');
@@ -223,6 +223,13 @@ jQuery(document).ready(function() {
         });
     });
 
+    jQuery('input, textarea').keydown(function (e) {
+         //  left and right arrow keys
+         if (e.which == '37' || e.which == '39') {
+             e.stopPropagation();
+         }
+     });
+    
     jQuery(document).keydown(function(e) {
       // prev links - left arrow key
       if(e.which == '37') {
@@ -343,22 +350,6 @@ jQuery(document).ready(function() {
 });
 
 jQuery(window).on('load', function() {
-
-    function adjustForScrollbar() {
-        if ((parseInt(jQuery('#body-inner').height()) + 83) >= jQuery('#body').height()) {
-            jQuery('.nav.nav-next').css({ 'margin-right': getScrollBarWidth() });
-        } else {
-            jQuery('.nav.nav-next').css({ 'margin-right': 0 });
-        }
-    }
-
-    // adjust sidebar for scrollbar
-    adjustForScrollbar();
-
-    jQuery(window).smartresize(function() {
-        adjustForScrollbar();
-    });
-
     // store this page in session
     sessionStorage.setItem(jQuery('body').data('url'), 1);
 
