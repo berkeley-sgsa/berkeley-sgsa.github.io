@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SGSA</title>
@@ -27,8 +27,8 @@ General Wisdom  Advice for Graduate Students in Statistics (2007) by Michael J. 
       <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/current_students/books/</guid>
-      <description>1. Applied and Theoretical Statistics Categorical Data  &amp;lsquo;&amp;lsquo;Categorical Data Analysis&amp;rsquo;&amp;rsquo; by Alan Agresti Well-written, go-to reference for all things involving categorical data.  Causal Inference More information available through the causal inference reading group and online seminar
-Communicating with Data  &amp;lsquo;&amp;lsquo;Communicating with Data The Art of Writing for Data Science&amp;rsquo;&amp;rsquo; by Deborah Nolan and Sara Stoudt  Compositional Data  &amp;lsquo;&amp;lsquo;Compositional Data Analysis&amp;rsquo;&amp;rsquo; by Pawlowsky-Glahn and Buccianti  Linear models  &amp;lsquo;&amp;lsquo;Generalized Linear Models&amp;rsquo;&amp;rsquo; by McCullagh and Nelder Theoretical take on GLMs.</description>
+      <description>1. Applied and Theoretical Statistics Categorical Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti Well-written, go-to reference for all things involving categorical data.  Causal Inference More information available through the causal inference reading group and online seminar
+Communicating with Data  &amp;ldquo;Communicating with Data The Art of Writing for Data Science&amp;rdquo; by Deborah Nolan and Sara Stoudt  Compositional Data  &amp;ldquo;Compositional Data Analysis&amp;rdquo; by Pawlowsky-Glahn and Buccianti  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs.</description>
     </item>
     
     <item>
@@ -44,8 +44,7 @@ Sören Künzel: 2016-17 Citadel Fellowship
 Jamie Murdoch: 2016 Natural Sciences and Engineering Research Council of Canada Fellowship
 Chelsea Zhang: 2016 NSF Graduate Research Fellowship
 Arturo Fernandez: 2015-16 Citadel Fellowship
-Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Berkeley Institute for Data Science Fellowship
-Sara Stoudt: 2015 National Physical Science Consortium Fellowship, 2015 Gertrude M.</description>
+Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Berkeley Institute for Data Science Fellowship</description>
     </item>
     
     <item>
@@ -63,7 +62,7 @@ Sara Stoudt: 2015 National Physical Science Consortium Fellowship, 2015 Gertrude
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/new_students/academic/department/</guid>
-      <description>About the Department History Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H. Kraft, W.</description>
+      <description>About the Department History Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H.</description>
     </item>
     
     <item>
@@ -134,7 +133,7 @@ Policy for PhD students The policy for the Ph.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/new_students/academic/gsi/</guid>
-      <description>Graduate students will typically serve as GSIs several times during the course of their degree. The appointment is typically 25% or 50%, rarely 75%. All GSI&amp;rsquo;s have their tuition, which includes the Student Health Insurance Plan (SHIP), covered by the department, as well as receive a salary of about $1500 per month for 50%; 25% appointments pay about half of this. This salary is subject to state and federal taxes. The minimum requirement for PhD students is to be a 50% GSI for 2 regular semesters, GSI-ing in the summer .</description>
+      <description>Graduate students will typically serve as GSIs several times during the course of their degree. The appointment is typically 25% or 50%, rarely 75%. All GSI&amp;rsquo;s have their tuition, which includes the Student Health Insurance Plan (SHIP), covered by the department, as well as receive a salary of about $1500 per month for 50%; 25% appointments pay about half of this. This salary is subject to state and federal taxes.</description>
     </item>
     
     <item>
@@ -152,7 +151,10 @@ Policy for PhD students The policy for the Ph.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/current_students/resources/internship/</guid>
-      <description>One of the great things about the Statistics department is their enthusiasm for Summer Internships. Doing an internship over the summer is an extremely common occurrence among the grad students, and it offers a nice break from your research that you&amp;rsquo;re working hard on during the rest of the year. There are a wide range of companies at which the grad students have interned at including Google, Ebay, Facebook, Citadel, Uber, Stitch Fix and more.</description>
+      <description>(Last Updated: 11/15/2021)
+The Statistics department is enthusiastic about summer internships, and it is common among graduate students to do an internship over the summer.
+Here are some reasons to consider an internship.
+ It&amp;rsquo;s a nice break from your research that you&amp;rsquo;re working hard on during the rest of the year. It&amp;rsquo;s a good way to explore work culture outside of an academic setting. It can help you better figure out your research interests and your future career path.</description>
     </item>
     
     <item>
@@ -185,7 +187,7 @@ Campus The Bear&amp;rsquo;s Lair near Telegraph and Bancroft offers cheap beer a
       <guid>https://berkeley-sgsa.github.io/new_students/living/eat/</guid>
       <description>The East Bay is one of the best places in the country to eat, but there&amp;rsquo;s a lot of terrible food around campus, as is the case with most campuses. Yelp will become your best friend when you have too many options to choose between.
 You can keep up with local restaurants opening and closing on the Berkeleyside Nosh.
-Near campus Most people in the department eat lunch on Northside. There are also cheap options on Southside and Downtown.</description>
+Near campus Most people in the department eat lunch on Northside.</description>
     </item>
     
     <item>
@@ -247,7 +249,7 @@ The graduate department has had a long standing tradition of playing sports toge
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/sgsa/tshirt/</guid>
-      <description>The SGSA holds an annual t-shirt design contest and fundraiser. The department votes on their favorite design. The winner gets to see their art printed on many shirts and receives eternal glory.
+      <description> The SGSA holds an annual t-shirt design contest and fundraiser. The department votes on their favorite design. The winner gets to see their art printed on many shirts and receives eternal glory.
 Previous winners  2019  2017  2016  2015  2014  2013  2012  2011  2010  2009  2008  2007 lost? 2006  2005  2004  2003  2002  2001  2000  1999  1998  1997  1996  1995  1994  older ones   </description>
     </item>
     
