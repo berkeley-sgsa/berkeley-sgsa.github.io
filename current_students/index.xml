@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Current Students on SGSA</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Current Students on SGSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate>
-    
-	<atom:link href="https://berkeley-sgsa.github.io/current_students/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate><atom:link href="https://berkeley-sgsa.github.io/current_students/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career advice</title>
       <link>https://berkeley-sgsa.github.io/current_students/career/</link>
@@ -27,8 +23,8 @@ General Wisdom  Advice for Graduate Students in Statistics (2007) by Michael J. 
       <pubDate>Sat, 13 Oct 2018 18:33:18 -0700</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/current_students/books/</guid>
-      <description>1. Applied and Theoretical Statistics Categorical Data  &amp;ldquo;Categorical Data Analysis&amp;rdquo; by Alan Agresti Well-written, go-to reference for all things involving categorical data.  Causal Inference More information available through the causal inference reading group and online seminar
-Communicating with Data  &amp;ldquo;Communicating with Data The Art of Writing for Data Science&amp;rdquo; by Deborah Nolan and Sara Stoudt  Compositional Data  &amp;ldquo;Compositional Data Analysis&amp;rdquo; by Pawlowsky-Glahn and Buccianti  Linear models  &amp;ldquo;Generalized Linear Models&amp;rdquo; by McCullagh and Nelder Theoretical take on GLMs.</description>
+      <description>1. Applied and Theoretical Statistics Categorical Data  &amp;lsquo;&amp;lsquo;Categorical Data Analysis&amp;rsquo;&amp;rsquo; by Alan Agresti Well-written, go-to reference for all things involving categorical data.  Causal Inference More information available through the causal inference reading group and online seminar
+Communicating with Data  &amp;lsquo;&amp;lsquo;Communicating with Data The Art of Writing for Data Science&amp;rsquo;&amp;rsquo; by Deborah Nolan and Sara Stoudt  Compositional Data  &amp;lsquo;&amp;lsquo;Compositional Data Analysis&amp;rsquo;&amp;rsquo; by Pawlowsky-Glahn and Buccianti  Linear models  &amp;lsquo;&amp;lsquo;Generalized Linear Models&amp;rsquo;&amp;rsquo; by McCullagh and Nelder Theoretical take on GLMs.</description>
     </item>
     
     <item>
@@ -44,7 +40,8 @@ Sören Künzel: 2016-17 Citadel Fellowship
 Jamie Murdoch: 2016 Natural Sciences and Engineering Research Council of Canada Fellowship
 Chelsea Zhang: 2016 NSF Graduate Research Fellowship
 Arturo Fernandez: 2015-16 Citadel Fellowship
-Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Berkeley Institute for Data Science Fellowship</description>
+Kellie Ottoboni: 2015 Microsoft Research Graduate Women’s Scholarship, 2015 Berkeley Institute for Data Science Fellowship
+Sara Stoudt: 2015 National Physical Science Consortium Fellowship, 2015 Gertrude M.</description>
     </item>
     
     <item>

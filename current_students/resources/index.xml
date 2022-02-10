@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Resources on SGSA</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Resources on SGSA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate>
-    
-	<atom:link href="https://berkeley-sgsa.github.io/current_students/resources/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 13 Oct 2018 18:33:18 -0700</lastBuildDate><atom:link href="https://berkeley-sgsa.github.io/current_students/resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Conference and other events</title>
       <link>https://berkeley-sgsa.github.io/current_students/resources/conference/</link>

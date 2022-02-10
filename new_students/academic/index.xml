@@ -1,22 +1,18 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Academic life on SGSA</title>
     <link>https://berkeley-sgsa.github.io/new_students/academic/</link>
     <description>Recent content in Academic life on SGSA</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    
-	<atom:link href="https://berkeley-sgsa.github.io/new_students/academic/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>en-us</language><atom:link href="https://berkeley-sgsa.github.io/new_students/academic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About the department</title>
       <link>https://berkeley-sgsa.github.io/new_students/academic/department/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/new_students/academic/department/</guid>
-      <description>About the Department History Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H.</description>
+      <description>About the Department History Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H. Kraft, W.</description>
     </item>
     
     <item>
@@ -35,7 +31,7 @@ Policy for PhD students The policy for the Ph.</description>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://berkeley-sgsa.github.io/new_students/academic/gsi/</guid>
-      <description>Graduate students will typically serve as GSIs several times during the course of their degree. The appointment is typically 25% or 50%, rarely 75%. All GSI&amp;rsquo;s have their tuition, which includes the Student Health Insurance Plan (SHIP), covered by the department, as well as receive a salary of about $1500 per month for 50%; 25% appointments pay about half of this. This salary is subject to state and federal taxes.</description>
+      <description>Graduate students will typically serve as GSIs several times during the course of their degree. The appointment is typically 25% or 50%, rarely 75%. All GSI&amp;rsquo;s have their tuition, which includes the Student Health Insurance Plan (SHIP), covered by the department, as well as receive a salary of about $1500 per month for 50%; 25% appointments pay about half of this. This salary is subject to state and federal taxes. The minimum requirement for PhD students is to be a 50% GSI for 2 regular semesters, GSI-ing in the summer .</description>
     </item>
     
     <item>

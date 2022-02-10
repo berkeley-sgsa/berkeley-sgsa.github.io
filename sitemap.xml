@@ -1,154 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
     <loc>https://berkeley-sgsa.github.io/current_students/career/</loc>
     <lastmod>2018-10-13T18:33:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/</loc>
     <lastmod>2018-10-13T18:33:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/books/</loc>
     <lastmod>2018-10-13T18:33:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/resources/</loc>
     <lastmod>2018-10-13T18:33:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/</loc>
     <lastmod>2018-10-13T18:33:18-07:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/achievements/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/phdtrack/</loc>
     <lastmod>2018-10-13T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://berkeley-sgsa.github.io/about_us/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/academic/department/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://berkeley-sgsa.github.io/about_us/</loc>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/academic/</loc>
-  </url>
-  
-  <url>
-    <loc>https://berkeley-sgsa.github.io/covid_19/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/sgsa/committees/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/resources/conference/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://berkeley-sgsa.github.io/covid_19/</loc>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/sgsa/duties/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/resources/fellowship/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/academic/finance/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/living/around/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/academic/gsi/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/living/housing/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/resources/internship/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/living/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/academic/coursework/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/living/drink/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/living/eat/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/current_students/resources/jobs/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/academic/faq/</loc>
-  </url>
-  
-  <url>
-    <loc>https://berkeley-sgsa.github.io/sgsa/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/sgsa/eventfunding/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/sgsa/events/</loc>
-  </url>
-  
-  <url>
+  </url><url>
+    <loc>https://berkeley-sgsa.github.io/sgsa/</loc>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/sgsa/sports/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/sgsa/tshirt/</loc>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/tags/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
+  </url><url>
     <loc>https://berkeley-sgsa.github.io/new_students/living/see/</loc>
   </url>
-  
 </urlset>
