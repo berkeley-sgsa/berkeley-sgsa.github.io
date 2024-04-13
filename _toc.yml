@@ -2,9 +2,31 @@
 # Learn more at https://jupyterbook.org/customize/toc.html
 
 format: jb-book
-root: intro
-chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: seminars
+root: pages/intro
+parts:
+- caption: Academic
+  chapters:
+  - file: pages/courses
+  - file: pages/teaching
+  - file: pages/seminars
+  - file: pages/fellowships
+  - file: pages/union
+- caption: Social
+  chapters:
+  - file: pages/winddowns
+  - file: pages/foosball
+  - file: pages/tshirts
+- caption: Life
+  chapters:
+  - file: pages/housing
+  - file: pages/hikes
+  - file: pages/food
+- caption: Career Perspectives
+  chapters:
+  - file: pages/internships
+  - file: pages/postgraduation
+  - file: pages/iap
+- caption: More Information
+  chapters:
+  - file: pages/about
+  - file: pages/howtos
