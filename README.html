@@ -371,7 +371,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -387,6 +389,16 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#make-a-pull-request-octocat">Make a Pull Request! :octocat:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -398,7 +410,25 @@ document.write(`
                   
   <section id="repository-for-sgsa-website">
 <h1>Repository for SGSA Website<a class="headerlink" href="#repository-for-sgsa-website" title="Permalink to this heading">#</a></h1>
-<p>Some small changes.</p>
+<p>This repository host the <a class="reference external" href="https://statistics-graduate-student-association.github.io/site/pages/intro.html">SGSA website</a>.
+Everyone is welcome to contribute to this website by contributing with a pull request.
+The next section introduces how to contribute to the repository.</p>
+<section id="continuous-integration">
+<h2>Continuous integration<a class="headerlink" href="#continuous-integration" title="Permalink to this heading">#</a></h2>
+<p>This repository has a <a class="reference external" href="https://github.com/Statistics-Graduate-Student-Association/site/blob/main/.github/workflows/website.yml">workflow</a> implemented that automatically deploys the website.
+Every new commit message to the main branch of this repository will trigger the action to deploy the website with the changes from the last commit.</p>
+</section>
+<section id="make-a-pull-request-octocat">
+<h2>Make a Pull Request! :octocat:<a class="headerlink" href="#make-a-pull-request-octocat" title="Permalink to this heading">#</a></h2>
+<p>The easiest way to contribute by adding code and/or text is to <a class="reference external" href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">create a new fork</a> of this repository and then <a class="reference external" href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork">create a pull request</a> to the main
+repository.
+You can add changes and explore new things in your own fork of this repository and then make a pull request to the repository asking to include some of the contents in the repository.
+Pull requests are the best way of merging different versions of a repository since it allows to open a conversation about the new implemented changes and solve potential merge conflicts at the same time.</p>
+</section>
+<section id="contact">
+<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this heading">#</a></h2>
+<p>If you have any questions or want to reach out, feel free to send us an email to <code class="docutils literal notranslate"><span class="pre">email</span></code>.</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -438,7 +468,22 @@ document.write(`
             
             
               
-                <div class="bd-sidebar-secondary bd-toc"></div>
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#make-a-pull-request-octocat">Make a Pull Request! :octocat:</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
