@@ -20,7 +20,7 @@ The probability seminar is a weekly seminar co-sponsored by the Statistics and M
 
 ## Student Probability Seminar
 
-When: Wednesdays, 11am-12pm
+When: Wednesdays, 2-3pm
 Where: 891 Evans Hall
 
 The student probability seminar is a weekly seminar run and attended by graduate students in the Statistics and Mathematics deprartments. Each week, a student volunteers to give a talk following the seminar's theme of the semester. See https://mriganka.xyz/seminar for the details of past and upcoming talks.
