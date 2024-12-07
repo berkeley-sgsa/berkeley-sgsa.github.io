@@ -40,13 +40,13 @@ The SGSA holds an annual t-shirt design contest and fundraiser. The department v
 
 ## 2022
 
-```{image} UP-BERKS-61124_Berkley_Statistics_mockup_1_1929x2400_2022.jpg
+```{image} /assets/tshirts/UP-BERKS-61124_Berkley_Statistics_mockup_1_1929x2400_2022.jpg
 :width: 500px
 ```
 
 ## 2020
 
-```{image} UP-BERKS-61125_UC_Berkley_Statistics_mockup_2020.jpg
+```{image} /assets/tshirts/UP-BERKS-61125_UC_Berkley_Statistics_mockup_2020.jpg
 :width: 500px
 ```
 
