@@ -54,7 +54,9 @@ The SGSA holds an annual t-shirt design contest and fundraiser. The department v
 
 ## 2014
 
-<img src="/assets/tshirts/Tshirt_Students_t_2014_1.jpg" width="200">
+```{image} /assets/tshirts/Tshirt_Students_t_2014_1.jpg
+:width: 500px
+```
 
 ![](/assets/tshirts/500px-Tshirt_Students_t_2014_2.png)
 
