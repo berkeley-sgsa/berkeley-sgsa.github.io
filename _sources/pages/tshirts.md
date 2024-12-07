@@ -38,10 +38,17 @@ The SGSA holds an annual t-shirt design contest and fundraiser. The department v
 | 1995 |                            |                             |
 | 1994 |                            |                             |
 
+## 2019
+
+```{image} /assets/tshirts/Tshirt_2019.jpg
+:width: 500px
+```
+
 ## 2018
 
 ```{image} /assets/tshirts/stat_mock_tee_2018.jpg
-:width: 500px```
+:width: 500px
+```
 
 ## 2017
 
