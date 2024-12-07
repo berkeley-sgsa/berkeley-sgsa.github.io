@@ -6,7 +6,7 @@ Berkeley is a prime location for both local activities and day trips, including 
 
 We recommend using [AllTrails](https://www.alltrails.com/) for finding hikes suitable for your experience level, prefered hike features, and time span. Google Maps also shows local parks and trails in the parks
 
-<img src=/assets/hiking/bay_area_map.jpeg width=700/>
+![](/assets/hiking/bay_area_map.jpeg)
 
 ## Local Berkeley hiking 
 
@@ -20,21 +20,21 @@ There are plenty of hikes directly off of campus and within a 15 minute drive. T
 - **Fire Trails**: Paved trails accessible from campus. 
 - **Bay Trail** : Flat trail alongside the bay, stretching miles north and south. 
 
-<img src=/assets/hiking/grizzly_peak.jpg width=700/>
+![](/assets/hiking/grizzly_peak.jpg)
 
 ### Albany 
 - **Albany Bulb**: Small park jutting out into the bay with mild trails and great views of San Francisco. Walkable from University Village.
 - **Albany Hill Park**: Small park with steeper trails and a Monarch butterfly grove.  Walkable from University Village.
 - **Bay Trail**:  Flat trail alongside the bay, stretching miles north and south, connecting to Albany Bulb. Walkable from University Village.
 
-<img src=/assets/hiking/albany_bulb.jpg width=700/>
+![](/assets/hiking/albany_bulb.jpg)
 
 ### Oakland
 - **Chabot Regional Park**: Large park with multiple trails and a lake stocked for fishing.
 - **Reinhardrt Redwood Regional Park**: Large park with redwood covered trails and vantage points.
 - **Lake Merritt**: Lake with trail around perimiter, great for fishing. 
 
-<img src=/assets/hiking/lake_merrit.jpg width=700/>
+![](/assets/hiking/lake_merrit.jpg)
 
 ## Greater Bay Area Hiking
 
@@ -49,7 +49,7 @@ Mount Diablo is a large park just over an hour drive from campus. It is great fo
 - **Point Reyes National Seashore**: About one hour drive from campus, Point Reyes has a wide variety of hiking, including trails to the ocean side and a famous light house. Elephant seals can also be found in the winter months. The area is remote, so plan accordingly. 
 - **Golden Gate National Recreation Area**: Just north of the Golden Gate Bridge, the Golden Gate National Recreation Area has picnic tables, short trails, and up close views of the bridge.
 
-<img src=/assets/hiking/marin.jpg width=700/>
+![](/assets/hiking/marin.jpg)
 
 ### San Francisco
 - **Twin Peaks**: Park at high elevation which provides great views of the city.
@@ -58,14 +58,14 @@ Mount Diablo is a large park just over an hour drive from campus. It is great fo
 - **The Presidio**: Green area in northern San Francisco, adjacent to the Golden Gate Bridge on the north and coastline on the west.
 - **Angel Island**: Island inside the bay accessible from the San Francisco ferry building. Includes a flat hike around the island, with optional steep trails in the center. Served as an immigration station and hosts a museum commemorating its history. 
 
-<img src=/assets/hiking/angel_island.jpg width=700/>
+![](/assets/hiking/angel_island.jpg)
 
 ### Penninsula - San Mateo, Palo Alto, Pacifica, Half Moon Bay
 - **Bay Trail**: Flat trail alongside the bay, stretching miles north and south.
 - **Mori Point**: Great for seeing whales in the winter and wildflowers in the spring, both flat and steeper trail options with shorter lengths.
 - **Ano Nuevo State Park**: Elephant seals in the late winter - early spring, be sure to make reservations in advance!
 
-<img src=/assets/hiking/pacifica.jpg width=700/>
+![](/assets/hiking/pacifica.jpg)
 
 ### South Bay - San Jose, Santa Clara, Gilroy
 
@@ -75,7 +75,7 @@ The South Bay Area is about a 1-1.5 hour drive from campus and has a variety of 
 - **Castle Rock State Park**: Located in the mountains, has miles of trails and rock formations. Some rock climbing available as well for skilled adventurers. 
 - **Sanborn County Park**: Small park in the mountains, great views and redwood trees.
 
-<img src=/assets/hiking/mount_hamilton.jpg width=700/>
+![](/assets/hiking/mount_hamilton.jpg)
 
 ### Santa Cruz Mountains - Santa Cruz, Boulder Creek, Aptos
 
@@ -86,8 +86,9 @@ The Sata Cruz Mountains are about a 1.5-2 hour drive depending on traffic and ma
 - **Natural Bridges State Park**: Beachside park in Santa Cruz, short trails and Monarch butterfly sanctuary.
 - **Forest of Nisene Marks State Park**: Tranquil redwood forest park with trails and rivers.
 
-<img src=/assets/hiking/henry_cowl.jpg width=700/>
-<img src=/assets/hiking/natural_bridges.jpg width=700/>
+![](/assets/hiking/henry_cowl.jpg)
+
+![](/assets/hiking/natural_bridges.jpg)
 
 ## Northern California Hiking 
 
@@ -96,14 +97,14 @@ Much of Northern California is reachable for a weekend trip, with multiple natio
 ### Pinnacles National Park
 About 3 hours south of campus, Pinnacles is the closest national park. There are plenty of trails, including some through caves and over rocky hills. Be sure to get there before 8am to catch the shuttle to the trails from the main park. It can get hot during summer, so it is best to visit in spring or fall.
 
-<img src=/assets/hiking/pinnacles.jpg width=700/>
+![](/assets/hiking/pinnacles.jpg)
 
 ### Yosemite National Park
 About 4 hours from campus, Yosemite is one of the most famous national parks and has numerous draws: hiking, beautiful views, camping, and climbing. If you plan to camp, you must schedule as soon as spots are open for the season as they fill up fast. It can get especially crowded during summer holidays and is often closed in the winter months due to snowfall. 
 
-<img src=/assets/hiking/yosemite.jpg width=700/>
+![](/assets/hiking/yosemite.jpg)
 
-<img src=/assets/hiking/sierras.jpg width=700/>
+![](/assets/hiking/sierras.jpg)
 
 ### Redwoods National Park
 About 5 hours from campus in Northern California, Redwoods National Park is nestled adjacent land of the Yurok Tribe. It includes huge old growth redwood tree groves, fern forests, and rivers. 
