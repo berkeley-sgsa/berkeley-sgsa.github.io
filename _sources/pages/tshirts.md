@@ -40,98 +40,98 @@ The SGSA holds an annual t-shirt design contest and fundraiser. The department v
 
 ## 2017
 
-![](/assets/Stats_T-Shirt_Design_Recolored_2017.png)
+![](/assets/tshirts/Stats_T-Shirt_Design_Recolored_2017.png)
 
 ## 2016
 
-![](/assets/nYjjLt4_2016.jpg)
+![](/assets/tshirts/nYjjLt4_2016.jpg)
 
-![](/assets/stat_2016.jpg)
+![](/assets/tshirts/stat_2016.jpg)
 
 ## 2015
 
-![](/assets/I8bXNtN_2015.png)
+![](/assets/tshirts/I8bXNtN_2015.png)
 
 ## 2014
 
-![](/assets/500px-Tshirt_Students_t_2014_1.jpg)
+<img src="/assets/tshirts/Tshirt_Students_t_2014_1.jpg" width="200">
 
-![](/assets/500px-Tshirt_Students_t_2014_2.png)
+![](/assets/tshirts/500px-Tshirt_Students_t_2014_2.png)
 
 ## 2013
 
-![](/assets/500px-Tshirt_Students_t_2013.jpg)
+![](/assets/tshirts/500px-Tshirt_Students_t_2013.jpg)
 
 ## 2012
 
-![](/assets/500px-Tshirt_Students_t_2012.png)
+![](/assets/tshirts/500px-Tshirt_Students_t_2012.png)
 
 ## 2011
 
-![](/assets/tshirt_berkeleystatistics_thumb_2011.png)
+![](/assets/tshirts/tshirt_berkeleystatistics_thumb_2011.png)
 
 ## 2010
 
-![](/assets/500px-Tshirt_2010.png)
+![](/assets/tshirts/500px-Tshirt_2010.png)
 
 ## 2009
 
-![](/assets/500px-Tshirt_2009.jpg)
+![](/assets/tshirts/500px-Tshirt_2009.jpg)
 
 ## 2008
 
-![](/assets/500px-Tshirt_2008.png)
+![](/assets/tshirts/500px-Tshirt_2008.png)
 
 ## 2006
 
-![](/assets/500px-Tshirt_2006.jpg)
+![](/assets/tshirts/500px-Tshirt_2006.jpg)
 
 ## 2005
 
-![](/assets/500px-Tshirt_2005.jpg)
+![](/assets/tshirts/500px-Tshirt_2005.jpg)
 
 ## 2004
 
-![](/assets/500px-Tshirt_2004.jpg)
+![](/assets/tshirts/500px-Tshirt_2004.jpg)
 
 ## 2003
 
-![](/assets/500px-Tshirt_2003.jpg)
+![](/assets/tshirts/500px-Tshirt_2003.jpg)
 
 ## 2002
 
-![](/assets/Tshirt_2002.jpg)
+![](/assets/tshirts/Tshirt_2002.jpg)
 
-![](/assets/Tshirt_2002_back.jpg)
+![](/assets/tshirts/Tshirt_2002_back.jpg)
 
 ## 2001
 
-![](/assets/500px-Tshirt_2001.jpg)
-
-## 1999
-
-![](/assets/500px-Tshirt_1999.jpg)
+![](/assets/tshirts/500px-Tshirt_2001.jpg)
 
 ## 2000
 
-![](/assets/Tshirt_2000.jpg)
+![](/assets/tshirts/Tshirt_2000.jpg)
+
+## 1999
+
+![](/assets/tshirts/500px-Tshirt_1999.jpg)
 
 ## 1998
 
-![](/assets/Tshirt_1998.jpg)
+![](/assets/tshirts/Tshirt_1998.jpg)
 
 ## 1997
 
-![](/assets/Tshirt_1997.jpg)
+![](/assets/tshirts/Tshirt_1997.jpg)
 
 ## 1996
 
-![](/assets/Tshirt_1996.jpg)
+![](/assets/tshirts/Tshirt_1996.jpg)
 
 ## 1995
 
-![](/assets/Tshirt_1995.jpg)
+![](/assets/tshirts/Tshirt_1995.jpg)
 
 ## 1994
 
-![](/assets/Tshirt_1994.jpg)
+![](/assets/tshirts/Tshirt_1994.jpg)
