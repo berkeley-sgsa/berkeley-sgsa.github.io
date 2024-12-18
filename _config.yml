@@ -4,6 +4,7 @@
 title: SGSA
 author: Berkeley SGSA
 logo: logo.png
+copyright: "2025"
 
 
 # Force re-execution of notebooks on each build.
