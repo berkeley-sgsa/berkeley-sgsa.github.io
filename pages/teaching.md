@@ -2,9 +2,24 @@
 
 Students without external funding (e.g. fellowships, Graduate Student Researcher funding) typically receive funding through an appointment as a GSI (Graduate Student Instructor). GSI positions are generally appointed at 50% time, which generally corresponds to two sections of a single class or one section each of two classes (less common). Students who work as GSIs have their tutition, fees, and health insurance (via the UC Berkeley Student Health Insurance Plan) fully paid for by the department. GSIs also receive a monthly stipend to cover food, rent, and other living expenses. Regardless of funding, PhD students are required to GSI for at least 2 semesters during the course of their degree. The statistics department generally fully funds students for their first semester, so they don't have to worry about GSIing while making the transition to graduate school.
 
+## So how much time does it take?
+
+Here is a breakdown of how often students some students have GSI'd (excluding the first semester of the program and summers), based on a Fall 2024 survey:
+- Every semester: 2 students (this was two second-year students who had just GSI'd two semesters in a row)
+- 75% of semesters: 1 student
+- 50% of semesters: 5 students
+- 25% of semesters: 5 students
+- No semesters: 4 students
+
+Students are roughly evenly split on how hard it is to get non-GSI funding, with 7/18 saying it is easy, 6/18 saying it is hard, and 5/18 somewhere in the middle.
+
+Only 5 of 17 students reported ever GSI'd during the summer. In the summers, students typically do a GSR (research) or an internship.
+
+Based on the same survey, 10/20 students feel the GSI workload is okay (i.e. doesn't have much of an impact on time for research or other things), and another 10/20 feel it is too much. The duties of a GSI with a 50% time appointment should not exceed 20 hours a week and may often be significantly less. Instructors will rarely assign all these duties and are generally very receptive to making adjustments if you find the GSI workload too heavy.
+
 ## GSI Responsibilities
 
-A GSI functions as an assistant to the instructor for a course, so the work may be different for different courses. Typical GSI responsibilities include holding weekly or biweekly discussion/lab sections, holding office hours, regularly meeting with the instructor, and proctoring and grading exams. Some instructors require GSIs to help write homework or exams. GSIs for graduate classes may need to grade homework, whereas GSIs for undergraduate classes generally do not grade homework. The duties of a GSI with a 50% time appointment should not exceed 20 hours a week and may often be significantly less. Instructors will rarely assign all these duties and are generally very receptive to making adjustments if you find the GSI workload too heavy.
+A GSI functions as an assistant to the instructor for a course, so the work may be different for different courses. Typical GSI responsibilities include holding weekly or biweekly discussion/lab sections, holding office hours, regularly meeting with the instructor, and proctoring and grading exams. Some instructors require GSIs to help write homework or exams. GSIs for graduate classes may need to grade homework, whereas GSIs for undergraduate classes generally do not grade homework.
 
 ### Discussion Sections/Labs
 
