@@ -29,6 +29,7 @@ parts:
 - caption: History
   chapters:
   - file: pages/departmenthistory
+  - file: pages/evanshall
 - caption: More Information
   chapters:
   - file: pages/about
