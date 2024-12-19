@@ -26,6 +26,9 @@ parts:
   - file: pages/internships
   - file: pages/postgraduation
   - file: pages/iap
+- caption: History
+  chapters:
+  - file: pages/departmenthistory
 - caption: More Information
   chapters:
   - file: pages/about
