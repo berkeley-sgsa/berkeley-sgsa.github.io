@@ -29,4 +29,5 @@ parts:
 - caption: More Information
   chapters:
   - file: pages/about
+  - file: pages/events
   - file: pages/howtos
