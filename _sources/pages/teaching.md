@@ -15,11 +15,11 @@ Students are roughly evenly split on how hard it is to get non-GSI funding, with
 
 Only 5 of 17 students reported ever GSI'd during the summer. In the summers, students typically do a GSR (research) or an internship.
 
-Based on the same survey, 10/20 students feel the GSI workload is okay (i.e. doesn't have much of an impact on time for research or other things), and another 10/20 feel it is too much. The duties of a GSI with a 50% time appointment should not exceed 20 hours a week and may often be significantly less. Instructors will rarely assign all these duties and are generally very receptive to making adjustments if you find the GSI workload too heavy.
+Based on the same survey, 10/20 students feel the GSI workload is okay (i.e. doesn't have much of an impact on time for research or other things), and another 10/20 feel it is too much. The duties of a GSI with a 50% time appointment should not exceed 20 hours a week and may often be significantly less.
 
 ## GSI Responsibilities
 
-A GSI functions as an assistant to the instructor for a course, so the work may be different for different courses. Typical GSI responsibilities include holding weekly or biweekly discussion/lab sections, holding office hours, regularly meeting with the instructor, and proctoring and grading exams. Some instructors require GSIs to help write homework or exams. GSIs for graduate classes may need to grade homework, whereas GSIs for undergraduate classes generally do not grade homework.
+A GSI functions as an assistant to the instructor for a course, so the work may be different for different courses. Typical GSI responsibilities include holding weekly or biweekly discussion/lab sections, holding office hours, regularly meeting with the instructor, and proctoring and grading exams. Some instructors require GSIs to help write homework or exams. GSIs for graduate classes may need to grade homework, whereas GSIs for undergraduate classes generally do not grade homework. Instructors will rarely assign all these duties and are generally very receptive to making adjustments if you find the GSI workload too heavy.
 
 ### Discussion Sections/Labs
 
