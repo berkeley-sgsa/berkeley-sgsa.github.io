@@ -404,9 +404,11 @@ document.write(`
             </div>
             <nav aria-label="Page">
                 <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#make-a-pull-request-octocat">Make a Pull Request! :octocat:</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-path-to-pr-jan-2025">The path to PR (jan 2025)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
+</ul>
+</li>
 </ul>
             </nav>
         </div>
@@ -418,26 +420,54 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article">
                   
-  <section id="repository-for-sgsa-website">
+  <section class="tex2jax_ignore mathjax_ignore" id="repository-for-sgsa-website">
 <h1>Repository for SGSA Website<a class="headerlink" href="#repository-for-sgsa-website" title="Permalink to this heading">#</a></h1>
-<p>This repository host the <a class="reference external" href="https://statistics-graduate-student-association.github.io/site/pages/intro.html">SGSA website</a>.
-Everyone is welcome to contribute to this website by contributing with a pull request.
-The next section introduces how to contribute to the repository.</p>
+<p>This repository hosts the <a class="reference external" href="https://statistics-graduate-student-association.github.io/site/pages/intro.html">SGSA website</a>.
+Everyone is welcome to contribute to this website by contributing with a pull request (PR).
+The next section introduces how to contribute to the repository. If you’ve never done this before, it’s easy!</p>
+<section id="the-path-to-pr-jan-2025">
+<h2>The path to PR (jan 2025)<a class="headerlink" href="#the-path-to-pr-jan-2025" title="Permalink to this heading">#</a></h2>
+<p>So you’ve decided to propose a change to the website! Ultimately, you need to make a PR, containing your changes, for
+the SGSA Website Committee to approve or deny. Here’s how you go about that.</p>
+<ol class="arabic simple">
+<li><p>If you’ve never proposed a change before, <strong>make a fork</strong> of this repo.</p></li>
+</ol>
+<ul class="simple">
+<li><p>To do this, on <a class="reference external" href="https://github.com/berkeley-sgsa/berkeley-sgsa.github.io">this repo’s home page</a>, click the <code class="docutils literal notranslate"><span class="pre">Fork</span></code> button on the upper right (see screenshot). Name it whatever you want! (In the screenshots we called it <code class="docutils literal notranslate"><span class="pre">sgsa_website</span></code>.)</p></li>
+<li><p>If you have previously forked the repo, then before making a new change, first click the <code class="docutils literal notranslate"><span class="pre">Sync</span> <span class="pre">Fork</span></code> button on your forked repo’s home page.</p></li>
+</ul>
+<ol class="arabic simple" start="2">
+<li><p>On your fork, you can <strong>add, upload, and edit files</strong>. All pages are stored as markdown files in the <code class="docutils literal notranslate"><span class="pre">pages</span></code> directory, with <code class="docutils literal notranslate"><span class="pre">.md</span></code> extension; all images and other files are stored in <code class="docutils literal notranslate"><span class="pre">assets</span></code>.</p></li>
+</ol>
+<ul class="simple">
+<li><p>The simplest way to do this is directly on Github! To add or upload a new file, click the <code class="docutils literal notranslate"><span class="pre">Add</span> <span class="pre">File</span></code> button on the upper right of <a class="reference external" href="https://github.com/berkeley-sgsa/berkeley-sgsa.github.io">this repo</a> (it might look like a <code class="docutils literal notranslate"><span class="pre">+</span></code> for you). To edit a markdown file, navigate to it in the file explorer, and click the pencil icon on the upper right to begin edits. When you’re done, click the green <code class="docutils literal notranslate"><span class="pre">Commit</span> <span class="pre">Changes</span></code> button and write a commit message. (See multiple screenshots). If you do it this way, your changes are automatically updated on Github.</p></li>
+<li><p>If you’re making substantial changes, you might prefer to clone your fork to your PC, work locally, and then push your changes back to your fork on Github.</p></li>
+</ul>
+<ol class="arabic simple" start="3">
+<li><p>Once your changes are updated on your fork on Github, it’s time to make the pull request! At your fork, click the <code class="docutils literal notranslate"><span class="pre">Contribute</span></code> button—it probably says it’s ahead by one or more commits—then <code class="docutils literal notranslate"><span class="pre">Open</span> <span class="pre">pull</span> <span class="pre">request</span></code>, and <code class="docutils literal notranslate"><span class="pre">Create</span> <span class="pre">Pull</span> <span class="pre">Request</span></code> (See multiple screenshots).</p></li>
+</ol>
+<ul class="simple">
+<li><p>If Website Committee updated the website while you’re working, then it <em>won’t</em> simply say that you’re ahead commits, but also that you’re behind. You need to <code class="docutils literal notranslate"><span class="pre">Sync</span> <span class="pre">Fork</span></code> again, and get the up-to-date website, before making your pull request.</p></li>
+</ul>
+<p><img alt="" src="_images/1.png" />
+<img alt="" src="_images/2.png" />
+<img alt="" src="_images/3.png" />
+<img alt="" src="_images/4.png" />
+<img alt="" src="_images/5.png" />
+<img alt="" src="_images/6.png" />
+<img alt="" src="_images/7.png" />
+<img alt="" src="_images/8.png" />
+<img alt="" src="_images/9.png" />
+<img alt="" src="_images/10.png" /></p>
 <section id="continuous-integration">
-<h2>Continuous integration<a class="headerlink" href="#continuous-integration" title="Permalink to this heading">#</a></h2>
-<p>This repository has a <a class="reference external" href="https://github.com/Statistics-Graduate-Student-Association/site/blob/main/.github/workflows/website.yml">workflow</a> implemented that automatically deploys the website.
+<h3>Continuous integration<a class="headerlink" href="#continuous-integration" title="Permalink to this heading">#</a></h3>
+<p>This repository has a <a class="reference external" href="https://github.com/berkeley-sgsa/berkeley-sgsa.github.io/blob/main/.github/workflows/website.yml">workflow</a> implemented that automatically deploys the website.
 Every new commit message to the main branch of this repository will trigger the action to deploy the website with the changes from the last commit.</p>
 </section>
-<section id="make-a-pull-request-octocat">
-<h2>Make a Pull Request! :octocat:<a class="headerlink" href="#make-a-pull-request-octocat" title="Permalink to this heading">#</a></h2>
-<p>The easiest way to contribute by adding code and/or text is to <a class="reference external" href="https://docs.github.com/en/get-started/quickstart/fork-a-repo">create a new fork</a> of this repository and then <a class="reference external" href="https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request-from-a-fork">create a pull request</a> to the main
-repository.
-You can add changes and explore new things in your own fork of this repository and then make a pull request to the repository asking to include some of the contents in the repository.
-Pull requests are the best way of merging different versions of a repository since it allows to open a conversation about the new implemented changes and solve potential merge conflicts at the same time.</p>
-</section>
 <section id="contact">
-<h2>Contact<a class="headerlink" href="#contact" title="Permalink to this heading">#</a></h2>
+<h3>Contact<a class="headerlink" href="#contact" title="Permalink to this heading">#</a></h3>
 <p>If you have any questions or want to reach out, feel free to send us an email to <code class="docutils literal notranslate"><span class="pre">email</span></code>.</p>
+</section>
 </section>
 </section>
 
@@ -487,9 +517,11 @@ Pull requests are the best way of merging different versions of a repository sin
   </div>
   <nav class="bd-toc-nav page-toc">
     <ul class="visible nav section-nav flex-column">
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#make-a-pull-request-octocat">Make a Pull Request! :octocat:</a></li>
-<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#the-path-to-pr-jan-2025">The path to PR (jan 2025)</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#contact">Contact</a></li>
+</ul>
+</li>
 </ul>
   </nav></div>
 
