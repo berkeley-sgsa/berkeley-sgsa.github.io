@@ -35,3 +35,4 @@ parts:
   - file: pages/about
   - file: pages/events
   - file: pages/howtos
+  - file: pages/contributing
