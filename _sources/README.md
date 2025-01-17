@@ -2,7 +2,7 @@
 
 This repository hosts the [SGSA website](https://statistics-graduate-student-association.github.io/site/pages/intro.html). 
 Everyone is welcome to contribute to this website by contributing with a pull request (PR). 
-The next section introduces how to contribute to the repository. If you’ve never done this before, it’s easy! 
+The next section introduces how to contribute to the repository. If you’ve never done this before, it’s easy!   
 
 ## The path to PR (jan 2025)
  
