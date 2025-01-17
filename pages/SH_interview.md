@@ -391,7 +391,7 @@ This interview has been edited and abridged for clarity.
 
 **Drew**: Okay, and then maybe one last question for the people hoping to get into the Berkeley Stats program--- possibly with the goal of playing foosball? What does Foosball mean to you now, now that you've retired and all that? Was it just a phase of your life? Or do you connect with it emotionally?
 
-**Seunghoon**: Yeah. I think I am emotionally connected with it. It was really kind of a core memory for my PhD life. All the time that I played with the others was all fun. And now wherever I go, now that I realize this sport exists, I see it in other places, in bars----whenever I see a table, I say, oh, is this better than the Evans table? Is this the same brand? And maybe I see it's Hurricane, it is the same brand! So my memory is definitely attached to foosball.
+**Seunghoon**: Yeah. I think I am emotionally connected with it. It was really kind of a core memory for my PhD life. All the time that I played with the others was all fun. And now wherever I go, now that I realize this sport exists, I see it in other places, in bars----whenever I see a table, I say, oh, is this better than the Evans table? Is this the same brand? And maybe I see it's Tornado, it is the same brand! So my memory is definitely attached to foosball.
 
 <!-- **Drew**: Besides your mentors, what are -->
 
