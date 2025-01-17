@@ -2,7 +2,7 @@
 
 ## A historical view
 
-Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H. Kraft, W. Kruskal, Lucien Le Cam, Erich Lehmann, Michel Loève, Jerzy Neyman (chair), Henry Scheffé and Elizabeth L. Scott. Professors Blackwell and Lehmann still come into the the department regularly.
+Jerzy Neyman came to the Department of Mathematics at Berkeley from University College, London, in 1938. He founded the Statistical Laboratory, which combined research with an extensive instructional program in Probability and Statistics. This program offered M.A. and Ph.D. degrees in Statistics. In 1955 the Statistical Laboratory became the Department of Statistics with the following faculty: E. Barankin, David Blackwell, Evelyn Fix, J.L. Hodges, Charles H. Kraft, W. Kruskal, Lucien Le Cam, Erich Lehmann, Michel Loève, Jerzy Neyman (chair), Henry Scheffé and Elizabeth L. Scott.
 
 From 1955 until 1981 the Statistical Laboratory functioned as a research unit under the direction of Jerzy Neyman. The Laboratory supported research in statistical theory and applications to such fields as astronomy, biology, communications theory, problems of health, and weather modification.
 
