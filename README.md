@@ -33,8 +33,3 @@ the SGSA Website Committee to approve or deny. Here's how you go about that.
 
 This repository has a [workflow](https://github.com/berkeley-sgsa/berkeley-sgsa.github.io/blob/main/.github/workflows/website.yml) implemented that automatically deploys the website. 
 Every new commit message to the main branch of this repository will trigger the action to deploy the website with the changes from the last commit.
-
-
-### Contact 
-
-If you have any questions or want to reach out, feel free to send us an email to `email`.
