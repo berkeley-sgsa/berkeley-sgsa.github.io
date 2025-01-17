@@ -26,7 +26,12 @@ parts:
   - file: pages/internships
   - file: pages/postgraduation
   - file: pages/iap
+- caption: History
+  chapters:
+  - file: pages/departmenthistory
+  - file: pages/evanshall
 - caption: More Information
   chapters:
   - file: pages/about
   - file: pages/howtos
+  - file: pages/contributing

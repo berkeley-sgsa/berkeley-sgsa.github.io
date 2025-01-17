@@ -26,6 +26,10 @@ jobs:
     - name: Build the book
       run: |
         jupyter-book build .
+    # Add the CNAME file
+    - name: Add custom domain
+      run: |
+        echo "sgsa.berkeley.edu" > ./_build/html/CNAME
     # Push the book's HTML to github-pages
     - name: GitHub Pages action
       uses: peaceiris/actions-gh-pages@v3
