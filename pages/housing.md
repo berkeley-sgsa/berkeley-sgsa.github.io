@@ -1,7 +1,6 @@
 # Housing Hunt
 
-It can be challenging to find housing in Berkeley, and most students aren't able to visit ahead of time to choose their first place to live. On average, we tend to make it work, but let's show a bit of survey data 
-to see exactly what that means. 
+It can be challenging to find housing in Berkeley, and most students aren't able to visit ahead of time to choose their first place to live. On average, we tend to make it work, but let's show a bit of survey data to see exactly what that means. 
 
 ## Survey Data (2023)
 
@@ -15,14 +14,11 @@ We surveyed the following graduate students.
 
 ### Where we live
 
-We asked students "Where do you live, approximately (cross streets)?". In the plot, we added a
-bit of jitter and removed a few data points corresponding to students living in Emeryville
-and Oakland.
+We asked students "Where do you live, approximately (cross streets)?". In the plot, we added a bit of jitter and removed a few data points corresponding to students living in Emeryville and Oakland.
 
 ![Housing map](/assets/housing/housing_map_2023.jpg)
 
-Four rough clusters appear: Southside (directly south of campus), South Berkeley (below Southside), Northside (directly north of campus) and North Berkeley (west of Northside). The North locations
-tend to be a bit more expensive. 
+Four rough clusters appear: Southside (directly south of campus), South Berkeley (below Southside), Northside (directly north of campus) and North Berkeley (west of Northside). The North locations tend to be a bit more expensive. 
 
 ### What we pay
 
@@ -30,8 +26,7 @@ We asked students "What is your share of the rent (monthly)?"
 
 ![Rent histogram](/assets/housing/rent_histogram.jpg)
 
-Most students pay less than \$1700, and in particular $\1500 seems like a sweet 
-spot. In fact, the most common housing option---a single room in a two-bedroom apartment, describing ~20 students---has the following distribution:
+Most students pay less than \$1700, and in particular $\1500 seems like a sweet spot. In fact, the most common housing option---a single room in a two-bedroom apartment, describing ~20 students---has the following distribution:
 
 
 | 10%    | 25%    | 50%    | 75%    | 90%    |
@@ -52,9 +47,7 @@ We asked students "How financially comfortable do you feel with your current liv
 |4       |    12|
 |5       |     1|
 
-This, of course, cannot tell the whole story, because students come from a variety 
-of backgrounds and live in a variety of housing setups. When you are deciding 
-to come here, it's best to talk to someone. 
+This, of course, cannot tell the whole story, because students come from a variety of backgrounds and live in a variety of housing setups. When you are deciding to come here, it's best to talk to someone. 
 
 ## Some advice
 
