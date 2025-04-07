@@ -39,6 +39,8 @@ Graduate courses often do not have discussion sections. However, GSIs for gradua
 
 ### English Tests
 
+If English was one of the primary languages you learned as a child and it was spoken in your home, there is no need to demonstrate oral English proficiency in order to apply for a GSI position. Otherwise, as of 2025, your GSI application must accompany a report of a score of at least 26 on the TOEFL iBT (speaking section) or a score of at least 8 on the IELTS. If neither of those can be provided, or your scores are more than two years old, you can take Berkeley's internal Oral Proficiency Test (OPT) to fulfill the requirement. As this can take time to schedule, try to plan in advance so you have your language requirements ready by the time GSI applications open.
+
 ## Summer Appointments
 
 The department provides summer GSI appointments for any students who would like to make extra money over the summer. Unlike during the Fall and Spring semesters, students are allowed to GSI up to a 100% time appointment. Students who do not work as GSIs over the summer still receive insurance benefits, and working as a GSI over the summer is voluntary. Students may also sometimes have the opportunity to serve as an instructor for a summer course, rather than a GSI.
