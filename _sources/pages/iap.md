@@ -1,1 +1,3 @@
 # IAP
+
+The Berkeley Statistics Industry Alliance Program facilitates relatioships between the department and companies engaged in statistics research, data analysis, and machine learning. Companies give an annual donation in exchange for access to student resumes and attendance at the department's annual conference, [BSTARS](https://statistics.berkeley.edu/research/industry/berkeley-statistics-annual-research-symposium-bstars). Industry alliance partners can host recruitment events for summer internships for students and propose datasets or research projects for students to work with. More information can be found on the statistics department [webpage](https://statistics.berkeley.edu/research/industry/iap).
