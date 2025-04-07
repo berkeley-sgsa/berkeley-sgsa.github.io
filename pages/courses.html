@@ -382,7 +382,9 @@ document.write(`
   </button>
 `);
 </script>
-
+<label class="sidebar-toggle secondary-toggle btn btn-sm" for="__secondary"title="Toggle secondary sidebar" data-bs-placement="bottom" data-bs-toggle="tooltip">
+    <span class="fa-solid fa-list"></span>
+</label>
 </div></div>
       
     </div>
@@ -398,6 +400,22 @@ document.write(`
     <div id="print-main-content">
         <div id="jb-print-toc">
             
+            <div>
+                <h2> Contents </h2>
+            </div>
+            <nav aria-label="Page">
+                <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#core-courses">Core courses</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stat-205-probability-theory">Stat 205: Probability Theory</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stat-210-theoretical-statistics">Stat 210: Theoretical Statistics</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stat-215-statistical-models-theory-and-application">Stat 215: Statistical Models: Theory and Application</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-regular-courses">Other Regular Courses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#advanced-topic-courses">Advanced Topic Courses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#courses-in-other-departments">Courses in Other Departments</a></li>
+</ul>
+            </nav>
         </div>
     </div>
 </div>
@@ -409,6 +427,83 @@ document.write(`
                   
   <section class="tex2jax_ignore mathjax_ignore" id="courses">
 <h1>Courses<a class="headerlink" href="#courses" title="Permalink to this heading">#</a></h1>
+<p>Here is a list of courses that students in the statistics department commonly take. Course offerings for each semester can be found <a class="reference external" href="https://classes.berkeley.edu/">here</a> and are usually announced in the middle of the semester for the following semester. One useful resource for course notes is Daniel Raban’s <a class="reference external" href="https://pillowmath.github.io">Pillowmath note repository</a>, which has notes for Stat 210A, 210B, and some other courses.</p>
+<section id="core-courses">
+<h2>Core courses<a class="headerlink" href="#core-courses" title="Permalink to this heading">#</a></h2>
+<p>In their first year, PhD students will usually take 4 of the 6 core courses (2 per semester), depending on their area of specialization. The core courses are 205A and 205B (probability theory), 210A and 210B (theoretical statistics), and 215A and 215B (applied statistics). For example, common courseloads might be:</p>
+<ul class="simple">
+<li><p>(For a student interested in applied statistics) Fall semester: 210A, 215A; Spring semester: 210B, 215B</p></li>
+<li><p>(For a student interested in theoretical statistics or probability theory) Fall semester: 205A, 210A; Spring semester: 205B, 210B</p></li>
+</ul>
+<p>Students may deviate from this template for a number of reasons, such as:</p>
+<ul class="simple">
+<li><p>If you are interested in interdisciplinary work, you may wish to include a course from another department.</p></li>
+<li><p>If you have done graduate work at another university, the material in the “A” courses may already be familiar to you (or it may not). Other courses may be more appropriate.</p></li>
+<li><p>If you would like to learn probability theory but not at the level of rigor required for research, you may want to take Stat 204 (which is only occasionally offered).</p></li>
+<li><p>If you feel that you need a stronger mathematical background before taking the core courses, you might take an undergraduate course like Math 104 (real analysis) in your first year, postponing a course like Stat 210B to your second year.</p></li>
+</ul>
+<p>However, to deviate from the core course requirements, you will need to consult with the graduate advisor to receive approval. Detailed information about the requirements can be found on the department <a class="reference external" href="https://statistics.berkeley.edu/academics/phd/program">website</a>.</p>
+<p>All of the core courses require a large commitment of time, and they tend to have a significant amount of homework. Taking more than two of them per semester (eight units) is a Herculean task. Everybody is required by the university to be enrolled in 12 units, but you can enroll in “filler” units to bring you up to this level. The department also offers courses beyond the core that are more research oriented. They complement the core courses and typically focus on reading and presenting papers, rather than weekly homework. Also, keep in mind that your thesis topic does not need to come from a general area covered by the courses you take in first year: some students who take 205 and 215 in their first year end up working on theoretical statistics, and so on.</p>
+<section id="stat-205-probability-theory">
+<h3>Stat 205: Probability Theory<a class="headerlink" href="#stat-205-probability-theory" title="Permalink to this heading">#</a></h3>
+<p>Stat 205A and 205B offer a mathematically rigorous treatment of probability theory. The courses generally assume a strong mathematical background, and students without a few real analysis classes under their belt will find the pace quick.  Some knowledge of measure theory is extremely helpful; the basics of measure theory are covered in the first few weeks of lectures, but students who haven’t seen it before often find this isn’t enough. The homework given in this course is time-consuming and hard. Students often form study groups to share ideas.</p>
+<p>205A: Measure theoretic approach to probability, conditional expectation, martingales.</p>
+<p>205B: Markov processes, limit theorems, characteristic functions, ergodic theory, brownian motion.</p>
+</section>
+<section id="stat-210-theoretical-statistics">
+<h3>Stat 210: Theoretical Statistics<a class="headerlink" href="#stat-210-theoretical-statistics" title="Permalink to this heading">#</a></h3>
+<p>210A covers as much of classical statistics as is possible in one semester. 210B focuses more on high-dimensional statistics, attempting to bring students to the point where they can start reading research papers in modern topics. The 210 courses are less mathematically rigorous than the 205 courses. 210A is generally considered easier than 205A; 210B is much more mathematically demanding than 210A, and students benefit from a strong background in linear algebra and real analysis. Homework is time-consuming.</p>
+<p>210A: The frequentist approach to statistics with comparison to Bayesian and decision theory alternatives, estimation, model assessment, testing, confidence regions, some asymptotic theory.</p>
+<p>210B: Concentration inequalities, empirical processes, metric entropy, covariance matrix estimation, sparse linear regression, principle component analysis, minimax lower bounds, assorted further topics.</p>
+</section>
+<section id="stat-215-statistical-models-theory-and-application">
+<h3>Stat 215: Statistical Models: Theory and Application<a class="headerlink" href="#stat-215-statistical-models-theory-and-application" title="Permalink to this heading">#</a></h3>
+<p>There are computing/data analysis assignments as well as readings; sometimes there is additional homework. How these courses are run depend a lot on the instructor. Usually they are discussion-based.</p>
+<p>215A: Exploratory techniques; critical readings of applied papers; overview of methods, including regression, testing, and resampling.</p>
+<p>215B: Topics include advanced regression, causal inference, and optimization.</p>
+</section>
+</section>
+<section id="other-regular-courses">
+<h2>Other Regular Courses<a class="headerlink" href="#other-regular-courses" title="Permalink to this heading">#</a></h2>
+<p>STAT 238 Bayesian Statistics</p>
+<p>STAT C239A and C239B The Statistics of Causal Inference in the Social Science</p>
+<p>STAT 240 Nonparametric and Robust Methods</p>
+<p>STAT 241A Statistical Learning Theory</p>
+<p>STAT 241B Advanced Topics in Learning and Decision Making</p>
+<p>STAT 243 Introduction to Statistical Computing</p>
+<p>STAT 244 Statistical Computing</p>
+<p>STAT 246 Statistical Genetics</p>
+<p>STAT 248 Analysis of Time Series</p>
+<p>STAT 251 Stochastic Analysis with Applications to Mathematical Finance</p>
+<p>STAT 259 Reproducible and Collaborative Statistical Data Science</p>
+<p>STAT 261 Quantitative/Statistical Research Methods in Social Sciences</p>
+<p>STAT 272 Statistical Consulting</p>
+</section>
+<section id="advanced-topic-courses">
+<h2>Advanced Topic Courses<a class="headerlink" href="#advanced-topic-courses" title="Permalink to this heading">#</a></h2>
+<p>These courses are not taught regularly, and the content varies from semester to semester and by instructor. Topic announcements are usually made at the end of the preceding semester. These courses can be taken repeatedly for credit by graduate students, and the department encourages people to take these for credit in order to show the university that there really are people taking these courses. The three advanced topics course titles are:</p>
+<p>Stat 206: Stochastic Processes</p>
+<p>Stat 212: Topics in Theoretical Statistics</p>
+<p>Stat 260: Topics in Probability and Statistics</p>
+</section>
+<section id="courses-in-other-departments">
+<h2>Courses in Other Departments<a class="headerlink" href="#courses-in-other-departments" title="Permalink to this heading">#</a></h2>
+<p>A lot of statistics research is intercdisciplinary, and many students take courses outside of the department. Here are some courses that students often take:</p>
+<ul class="simple">
+<li><p>EE 227BT/C/T (Convex Optimization)</p></li>
+</ul>
+<p>For students interested in probability:</p>
+<ul class="simple">
+<li><p>Math 204 (Ordinary Differential Equations)</p></li>
+<li><p>Math 222 (Partial Differential Equations)</p></li>
+<li><p>Math 205 (Complex Analysis)</p></li>
+<li><p>Math 258 (Classical Harmonic Analysis)</p></li>
+<li><p>Math 275 (Special Topics Courses)</p></li>
+<li><p>EE 229 (Information Theory and Coding)</p></li>
+<li><p>CS 271 (Randomness and Computation)</p></li>
+<li><p>CS 294 (Special Topics Courses)</p></li>
+</ul>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -465,6 +560,29 @@ document.write(`
             </div>
             
             
+              
+                <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
+
+
+  <div class="sidebar-secondary-item">
+  <div class="page-toc tocsection onthispage">
+    <i class="fa-solid fa-list"></i> Contents
+  </div>
+  <nav class="bd-toc-nav page-toc">
+    <ul class="visible nav section-nav flex-column">
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#core-courses">Core courses</a><ul class="nav section-nav flex-column">
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stat-205-probability-theory">Stat 205: Probability Theory</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stat-210-theoretical-statistics">Stat 210: Theoretical Statistics</a></li>
+<li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#stat-215-statistical-models-theory-and-application">Stat 215: Statistical Models: Theory and Application</a></li>
+</ul>
+</li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#other-regular-courses">Other Regular Courses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#advanced-topic-courses">Advanced Topic Courses</a></li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#courses-in-other-departments">Courses in Other Departments</a></li>
+</ul>
+  </nav></div>
+
+</div></div>
               
             
           </div>
