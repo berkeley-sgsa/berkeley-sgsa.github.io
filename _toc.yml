@@ -10,6 +10,7 @@ parts:
   - file: pages/teaching
   - file: pages/seminars
   - file: pages/fellowships
+  - file: pages/funding
   - file: pages/union
 - caption: Social
   chapters:
