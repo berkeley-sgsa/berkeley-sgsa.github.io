@@ -45,6 +45,6 @@ Competitive internships typically open applications in the fall, so its a good i
 - Resumes are typically 1-2 pages, versus CVs which are a complete record of your experience.
 
 **Preparing for Interviews**
-- Interviews typically consist for 2+ rounds ranging from behavioral screenings, technical interviews, to full day on-site visits.
+- Interviews typically consist of 2+ rounds ranging from behavioral screenings, technical interviews, to full day on-site visits.
 - Generative AI can be great for generating practice interview questions and iterating on your responses - try feeding it your resume and the job position for context.
 - Reach out to anyone you have a connection with who has interned it the past to better understand the interview process at the specific company.
