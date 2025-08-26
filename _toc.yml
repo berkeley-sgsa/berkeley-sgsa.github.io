@@ -12,6 +12,11 @@ parts:
   - file: pages/fellowships
   - file: pages/funding
   - file: pages/union
+- caption: Outreach
+  chapters:
+  - file: pages/high-school-outreach
+  - file: pages/undergraduate-mentoring
+  - file: pages/sop-workshop
 - caption: Social
   chapters:
   - file: pages/winddowns
