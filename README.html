@@ -417,6 +417,7 @@ document.write(`
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#previewing">Previewing</a></li>
 </ul>
             </nav>
         </div>
@@ -473,6 +474,17 @@ the SGSA Website Committee to approve or deny. Here’s how you go about that.</
 Every new commit message to the main branch of this repository will trigger the action to deploy the website with the changes from the last commit.</p>
 </section>
 </section>
+<section id="previewing">
+<h2>Previewing<a class="headerlink" href="#previewing" title="Permalink to this heading">#</a></h2>
+<p>It is okay to edit the site and push without previewing anything. Most edits are simple changes to markdown files, so it is hard to mess up! And, even if you mess up, you can always just go in and fix it live. So, previewing is really not necessary.</p>
+<p>However, if you would like to preview the modified website before pushing, it is possible. What you need to do is (a) build the html pages then (b) look at them. For (a), you can take a look at the GitHub Action located in the repository at <code class="docutils literal notranslate"><span class="pre">.github/workflows/website.yml</span></code> for help. This file describes the minimal steps required to build the HTML files, and is used by GitHub Pages to do so. These are the steps you need to do:</p>
+<ol class="arabic simple">
+<li><p>Open a command line in a local copy of the repository</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">pip</span> <span class="pre">install</span> <span class="pre">-r</span> <span class="pre">book-requirements.txt</span></code> (only ever need to do once)</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">jupyter-book</span> <span class="pre">build</span> <span class="pre">.</span></code> (repeat if you make changes and want to preview again)</p></li>
+</ol>
+<p>This will use the markdown files and various config files to build the HTML website. The built pages will be located in the folder <code class="docutils literal notranslate"><span class="pre">/_build/html</span></code> in your local copy of the repository. You can now open these with your web browser and take a look!</p>
+</section>
 </section>
 
     <script type="text/x-thebe-config">
@@ -525,6 +537,7 @@ Every new commit message to the main branch of this repository will trigger the 
 <li class="toc-h3 nav-item toc-entry"><a class="reference internal nav-link" href="#continuous-integration">Continuous integration</a></li>
 </ul>
 </li>
+<li class="toc-h2 nav-item toc-entry"><a class="reference internal nav-link" href="#previewing">Previewing</a></li>
 </ul>
   </nav></div>
 
