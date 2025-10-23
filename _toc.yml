@@ -26,6 +26,7 @@ parts:
   chapters:
   - file: pages/housing
   - file: pages/hikes
+  - file: pages/fitness
   - file: pages/food
 - caption: Career Perspectives
   chapters:
