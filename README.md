@@ -33,3 +33,15 @@ the SGSA Website Committee to approve or deny. Here's how you go about that.
 
 This repository has a [workflow](https://github.com/berkeley-sgsa/berkeley-sgsa.github.io/blob/main/.github/workflows/website.yml) implemented that automatically deploys the website. 
 Every new commit message to the main branch of this repository will trigger the action to deploy the website with the changes from the last commit.
+
+## Previewing
+
+It is okay to edit the site and push without previewing anything. Most edits are simple changes to markdown files, so it is hard to mess up! And, even if you mess up, you can always just go in and fix it live. So, previewing is really not necessary.
+
+However, if you would like to preview the modified website before pushing, it is possible. What you need to do is (a) build the html pages then (b) look at them. For (a), you can take a look at the GitHub Action located in the repository at `.github/workflows/website.yml` for help. This file describes the minimal steps required to build the HTML files, and is used by GitHub Pages to do so. These are the steps you need to do:
+
+1. Open a command line in a local copy of the repository
+2. `pip install -r book-requirements.txt` (only ever need to do once)
+3. `jupyter-book build .` (repeat if you make changes and want to preview again)
+
+This will use the markdown files and various config files to build the HTML website. The built pages will be located in the folder `/_build/html` in your local copy of the repository. You can now open these with your web browser and take a look!
