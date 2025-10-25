@@ -2,6 +2,8 @@
 
 Here's a list of some seminars and reading groups that might be of interest to students in the Statistics Department:
 
+## Seminars Within the Department
+
 ## Neyman Seminar
 
 When: Wednesdays, 4-5pm
@@ -29,13 +31,41 @@ Where: 939 Evans Hall
 The student probability seminar is a weekly seminar run and attended by graduate students in the Statistics and Mathematics deprartments. Each week, a student volunteers to give a talk following the seminar's theme of the semester. See https://mriganka.xyz/seminar for the details of past and upcoming talks.
 
 
-## CLIMB Seminar (Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley)
+## Causal Inference Reading Group aka “Casual Causal”
 
-When: Fridays, 2-3pm
+When: Wednesdays, 2:30-3:30 pm
 
-Where: 310 Sutardja Dai Hall
+Where: 1011 Evans Hall
 
-The CLIMB seminar is a weekly seminar covering topics at the intersection of statistics, mathematics, computer science, and economics. See https://climb.berkeley.edu/seminars/ for the details of past and upcoming talks.
+Speakers both from within the department as well as from other universities or industries present research on various causal inference methods. Topics may vary broadly across econometrics, trial design, and policy or biomedical applications, but carry the common theme of causal inference. Talks are usually a good mix of theory and applications. Open to all PhD students to attend! 
+
+## Seminars Outside the Department
+
+## CLIMB Voleon Seminars
+
+When: Thursdays, 4-5 pm (usually)
+
+Where: 310 Sutardja Dai Hall (usually)
+
+The CLIMB (Center for the Theoretical Foundations of Learning, Inference, Information, Intelligence, Mathematics and Microeconomics at Berkeley) seminar is a weekly seminar covering topics at the intersection of statistics, mathematics, computer science, and economics. Talks vary widely across domains and cover both applications and theory. They are also broadcast on YouTube (https://www.youtube.com/channel/UC9t0eK1p5AVA6Xe5YZwweSw). For more details and spear lists, visit: https://climb.berkeley.edu/seminars/. 
+
+
+## BIDMap Seminars
+
+When: Thursdays 12-1 pm
+
+Where: Cory Hall 373
+
+The BIDMaP (Bakar Institute of Digital Materials for the Planet) seminar hosts weekly talks on a broad variety of topics related to the applications of Machine Learning and Statistics in the physical sciences, including Chemistry, Materials, Astronomy, Climate etc. Talks are more application focused. More information can be found at: https://bidmap.berkeley.edu/seminars-events. 
+
+
+## CCB Seminars
+
+When: Wednesdays 4-5 pm (Monthly)
+
+Where: Li Ka Shing Center 125
+
+The (CCB) Center for Computational Biology Seminar Series invites professors from national and international research institutions to talk about their current research. Talks revolve around Machine Learning and other data-driven applications in healthcare, genomics and molecular biology. More information can be found at: https://ccb.berkeley.edu/outreach/seminars-and-symposia/ccb-seminars-0.
 
 
 ## BLISS Seminar (Berkeley Laboratory for Information and System Sciences)
@@ -47,15 +77,6 @@ Where: 510 Soda Hall
 The BLISS seminar is a weekly seminar run by the Electrical Engineering and Computer Science department. Talks at the seminar cover topics including but not limited to information and coding theory, signal processing, optimization, statistics, and control. The speakers are typically researchers from other universities, invited to speak at Berkeley. See https://bliss.eecs.berkeley.edu/Seminar/index.html for the details of past and upcoming talks.
 
 
-## Computer Science Theory Lunch
-
-When: Wednesdays 12-1pm
-
-Where: Wozniak Lounge (4th floor of Soda Hall)
-
-The Computer Science Theory Lunch is a weekly event hosted by the Computer Science department comprised of an informal board presentation over lunch. See http://theory.cs.berkeley.edu/theory-lunch.html for the details of past and upcoming talks.
-
-
 ## Probabilistic Operator Algebra Seminar
 
 When: Mondays, 9-10:30am
@@ -64,29 +85,3 @@ Where: To attend via Zoom email David Jekel (daj@math.ku.dk)
 
 The probababilistic operator algebra seminar is a weekly seminar run by the Mathematics department which centers around random matrix theory and free probability. The speakers are typically researchers from other universities, invited to speak at Berkeley. See https://math.berkeley.edu/~jgarzav/seminar.html for the details of past and upcoming talks.
 
-
-## Causal Inference Reading Group
-
-When:
-
-Where:
-
-[Description]
-
-
-## Machine Learning Reading Group
-
-When:
-
-Where:
-
-[Description]
-
-
-## Gaussian Processes Reading Group
-
-When:
-
-Where:
-
-[Description]
