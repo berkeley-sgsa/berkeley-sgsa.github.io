@@ -1,6 +1,7 @@
 # Seminars/Reading Groups
 
 Here's a list of some seminars and reading groups that might be of interest to students in the Statistics Department:
+(Page last updated on 24th October 2025)
 
 ## Neyman Seminar
 
