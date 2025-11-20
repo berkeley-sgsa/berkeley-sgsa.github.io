@@ -1,3 +1,3 @@
 # Post-graduation
 
-This page us under construction :)
+This page is under construction :)
