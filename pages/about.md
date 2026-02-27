@@ -2,6 +2,8 @@
 
 Statistics Graduate Student Association.
 
+Contact info: sgsa@lists.berkeley.edu. Emails will go to SGSA president(s) and committee heads.
+
 # SGSA Committees
 
 ## Student Seminar Committee
