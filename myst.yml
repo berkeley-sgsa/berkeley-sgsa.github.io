@@ -1,0 +1,51 @@
+version: 1
+project:
+  title: SGSA
+  copyright: "2026"
+  github: berkeley-sgsa/berkeley-sgsa.github.io
+  toc:
+    - file: pages/intro.md
+    - title: Academic
+      children:
+        - file: pages/courses.md
+        - file: pages/teaching.md
+        - file: pages/seminars.md
+        - file: pages/fellowships.md
+        - file: pages/funding.md
+        - file: pages/union.md
+    - title: Outreach
+      children:
+        - file: pages/high-school-outreach.md
+        - file: pages/undergraduate-mentoring.md
+        - file: pages/sop-workshop.md
+    - title: Social
+      children:
+        - file: pages/winddowns.md
+        - file: pages/foosball.md
+        - file: pages/tshirts.md
+    - title: Life
+      children:
+        - file: pages/housing.md
+        - file: pages/hikes.md
+        - file: pages/fitness.md
+        - file: pages/food.md
+    - title: Career Perspectives
+      children:
+        - file: pages/internships.md
+        - file: pages/postgraduation.md
+        - file: pages/iap.md
+    - title: History
+      children:
+        - file: pages/departmenthistory.md
+        - file: pages/evanshall.md
+    - title: More Information
+      children:
+        - file: pages/about.md
+        - file: pages/contributing.md
+site:
+  template: book-theme
+  options:
+    logo: logo.png
+    favicon: _static/favicon.ico
+  parts:
+    footer: footer.md

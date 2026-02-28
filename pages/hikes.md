@@ -75,7 +75,7 @@ The South Bay Area is about a 1-1.5 hour drive from campus and has a variety of 
 - **Castle Rock State Park**: Located in the mountains, has miles of trails and rock formations. Some rock climbing available as well for skilled adventurers. 
 - **Sanborn County Park**: Small park in the mountains, great views and redwood trees.
 
-![](/assets/hiking/mount_hamilton.jpg)
+![](/assets/hiking/mount_hamilton.jpeg)
 
 ### Santa Cruz Mountains - Santa Cruz, Boulder Creek, Aptos
 
