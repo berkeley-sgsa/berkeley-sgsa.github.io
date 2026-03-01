@@ -1,0 +1,8 @@
+/* make all text serif */
+body {
+    font-family: "Palatino", "Bookman", "Times", serif;
+}
+/* reduce line spacing */
+p {
+    line-height: 1.4;
+}
