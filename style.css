@@ -6,3 +6,9 @@ body {
 p {
     line-height: 1.4;
 }
+
+footer {
+  padding-top: 0.5rem !important;
+  padding-bottom: 0.5rem !important;
+  font-size: 0.7rem !important;
+}

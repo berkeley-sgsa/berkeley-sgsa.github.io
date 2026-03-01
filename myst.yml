@@ -48,6 +48,8 @@ site:
     logo: logo.png
     favicon: _static/favicon.ico
     style: style.css
+    hide_footer_links: true
+    hide_search: true
   parts:
     footer: footer.md
     primary_sidebar_footer: primary_sidebar_footer.md
