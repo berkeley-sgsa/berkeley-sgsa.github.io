@@ -1,6 +1,6 @@
 /* make all text serif */
 body {
-    font-family: "Palatino", "Bookman", "Times", serif;
+  font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 /* reduce line spacing */
 p {
